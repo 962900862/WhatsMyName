@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://bigbeautifulbillcalculator.org/sitemap.xml
+
+# Allow search engines to crawl important pages
+Allow: /
+Allow: /privacy-policy
+Allow: /terms-of-service
+Allow: /cookie-policy
+
+# Disallow admin and API routes
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_next/
+Disallow: /certificates/
+
+# Allow crawling of static assets
+Allow: /imgs/
+Allow: /logo.png
+Allow: /favicon.ico
+Allow: /*.css
+Allow: /*.js
+
+# Crawl delay to be respectful
+Crawl-delay: 1 

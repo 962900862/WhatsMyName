@@ -1,0 +1,4 @@
+lib/songless/*
+app/api/song-random/route.ts
+app/api/songs-search/route.ts
+app/api/playlist-validate/route.ts 

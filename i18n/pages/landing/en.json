@@ -1,0 +1,352 @@
+{
+  "metadata": {
+    "title": "WhatsMyName Pro - Username Checker Across Social Media Platforms",
+    "description": "Check if your username is available across 500+ social media platforms and websites. Find your digital footprint with our comprehensive username checker.",
+    "keywords": "username checker, social media username, digital footprint, username availability, social media search",
+    "siteName": "WhatsMyName Pro",
+    "defaultTitle": "WhatsMyName Pro - Username Checker"
+  },
+  "user": {
+    "sign_in": "Sign In",
+    "sign_out": "Sign Out",
+    "credits": "Credits",
+    "api_keys": "API Keys",
+    "my_orders": "My Orders"
+  },
+  "sign_modal": {
+    "sign_in_title": "Sign In",
+    "sign_in_description": "Sign in to your account",
+    "sign_up_title": "Sign Up",
+    "sign_up_description": "Create an account",
+    "email_title": "Email",
+    "email_placeholder": "Input your email here",
+    "password_title": "Password",
+    "password_placeholder": "Input your password here",
+    "forgot_password": "Forgot password?",
+    "or": "Or",
+    "continue": "Continue",
+    "no_account": "Don't have an account?",
+    "email_sign_in": "Sign in with Email",
+    "google_sign_in": "Sign in with Google",
+    "github_sign_in": "Sign in with GitHub",
+    "close_title": "Close",
+    "cancel_title": "Cancel"
+  },
+  "my_orders": {
+    "title": "My Orders",
+    "description": "orders paid with WhatsMyName Pro.",
+    "no_orders": "No orders found",
+    "tip": "",
+    "activate_order": "Activate Order",
+    "actived": "Activated",
+    "join_discord": "Join Discord",
+    "read_docs": "Read Docs",
+    "table": {
+      "order_no": "Order No",
+      "email": "Email",
+      "product_name": "Product Name",
+      "amount": "Amount",
+      "paid_at": "Paid At",
+      "github_username": "GitHub Username",
+      "status": "Status"
+    }
+  },
+  "my_credits": {
+    "title": "My Credits",
+    "left_tip": "left credits: {left_credits}",
+    "no_credits": "No credits records",
+    "recharge": "Recharge",
+    "table": {
+      "trans_no": "Trans No",
+      "trans_type": "Trans Type",
+      "credits": "Credits",
+      "updated_at": "Updated At",
+      "status": "Status"
+    }
+  },
+  "api_keys": {
+    "title": "API Keys",
+    "tip": "Please keep your apikey safe to avoid leaks",
+    "no_api_keys": "No API Keys",
+    "create_api_key": "Create API Key",
+    "table": {
+      "name": "Name",
+      "key": "Key",
+      "created_at": "Created At"
+    },
+    "form": {
+      "name": "Name",
+      "name_placeholder": "API Key Name",
+      "submit": "Submit"
+    }
+  },
+  "theme": "light",
+  "header": {
+    "brand": {
+      "title": "Big Beautiful Bill Calculator",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "Big Beautiful Bill Calculator"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "Tool",
+          "url": "#tool"
+        },
+        {
+          "title": "Learn PDF",
+          "url": "/The-One-Big-Beautiful-Bill-Section-by-Section.pdf"
+        }
+      ]
+    },
+    "show_sign": false,
+    "show_theme": false,
+    "show_locale": false
+  },
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "Big Beautiful Bill Calculator",
+      "description": "America's most trusted free tax calculator. Calculate federal and state taxes with ease using our H.R.1 compliant calculator.",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "Big Beautiful Bill Calculator"
+      }
+    },
+    "copyright": "© 2025 Big Beautiful Bill Calculator. All rights reserved.",
+    "nav": {
+      "items": []
+    },
+    "agreement": {
+      "items": [
+        {
+          "title": "Privacy Policy",
+          "url": "/privacy-policy"
+        },
+        {
+          "title": "Terms of Service",
+          "url": "/terms-of-service"
+        },
+        {
+          "title": "Support",
+          "url": "mailto:support@bigbeautifulbillcalculator.org"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "announcement": {
+      "label": "H.R.1 Compliant",
+      "title": "Based on One Big Beautiful Bill Act",
+      "url": "#features"
+    },
+    "title": "Big Beautiful Bill Calculator",
+    "highlight_text": "Big Beautiful Bill Calculator",
+    "description": "Calculate your federal and state taxes instantly with our free US Remittance Tax Calculator. Updated for H.R.1 One Big Beautiful Bill with new deductions, SALT cap increases, and tax-free tips provisions.",
+    "tip": "Free, accurate, and updated for all current tax law changes",
+    "buttons": [
+      {
+        "title": "Calculate Taxes Now",
+        "url": "#tool",
+        "variant": "default",
+        "icon": "calculator"
+      },
+      {
+        "title": "Learn About H.R.1 Benefits",
+        "url": "/The-One-Big-Beautiful-Bill-Section-by-Section.pdf",
+        "variant": "outline",
+        "icon": "arrow-right"
+      }
+    ]
+  },
+  "how_it_works": {
+    "title": "How Our Big Beautiful Bill Tax Tool Works",
+    "subtitle": "Calculate your taxes in 4 simple steps using our H.R.1 Tax Calculator",
+    "steps": [
+      {
+        "title": "Enter Your Income Details",
+        "description": "Input your gross income, filing status, and state. Our Big Beautiful Bill Calculator automatically applies the correct federal tax brackets and rates.",
+        "icon": "step1"
+      },
+      {
+        "title": "Add Deductions & Credits",
+        "description": "Include itemized deductions, the new $40,000 SALT cap, child tax credits ($2,500), and business income for QBI deduction using our One Big Beautiful Bill Tax Calculator.",
+        "icon": "step2"
+      },
+      {
+        "title": "Apply New H.R.1 Benefits",
+        "description": "Add tips and overtime income to benefit from the US Tax Law Calculator provisions - tips deduction for income under $160k and overtime deduction up to $12,500 single/$25,000 married.",
+        "icon": "step3"
+      },
+      {
+        "title": "Get Instant Results",
+        "description": "View your complete tax breakdown including federal, state taxes, effective rates, and potential savings. Our American Tax Reform Calculator shows exactly what you owe or your refund amount.",
+        "icon": "step4"
+      }
+    ]
+  },
+  "feature1": {
+    "name": "feature1",
+    "label": "Key Features",
+    "title": "Why Choose Our Big Beautiful Bill Tax Tool?",
+    "description": "Our US Remittance Tax Calculator provides the most accurate tax calculations based on the latest American Tax Reform Calculator provisions from H.R.1.",
+    "items": [
+      {
+        "title": "Real-Time Tax Calculations",
+        "description": "Get instant results as you enter information. Our Big Beautiful Bill Calculator updates calculations automatically using the One Big Beautiful Bill Tax Calculator framework with current tax brackets.",
+        "icon": "zap"
+      },
+      {
+        "title": "H.R.1 Tax Calculator Compliant",
+        "description": "Fully updated for the American Tax Reform Calculator with all H.R.1 provisions including tips deduction, overtime benefits, increased SALT cap, and enhanced QBI deduction.",
+        "icon": "shield-check"
+      },
+      {
+        "title": "Multi-State Support",
+        "description": "Calculate taxes for all 50 states with our US Remittance Tax Calculator, handling complex tax scenarios and maximizing your tax benefits.",
+        "icon": "map"
+      },
+      {
+        "title": "Professional Accuracy",
+        "description": "Built with tax professional precision, our Big Beautiful Bill Calculator ensures accuracy you can trust for important tax decisions.",
+        "icon": "check-circle"
+      }
+    ],
+    "image": {
+      "src": "/imgs/features/1.png",
+      "alt": "Big Beautiful Bill Calculator interface showing tax calculations"
+    },
+    "disabled": false
+  },
+  "feature2": {
+    "name": "feature2",
+    "label": "Advanced Features",
+    "title": "Maximize Your Tax Savings",
+    "description": "Our Big Beautiful Bill Calculator includes all the latest tax-saving features from the One Big Beautiful Bill Act.",
+    "items": [
+      {
+        "title": "Enhanced SALT Deduction",
+        "description": "Maximize your state and local tax deductions with the new $40,000 cap. Our American Tax Reform Calculator automatically optimizes between standard and itemized deductions based on your income level.",
+        "icon": "dollar-sign",
+        "image": {
+          "src": "/imgs/features/2.png",
+          "alt": "SALT deduction calculator"
+        }
+      },
+      {
+        "title": "Tips & Overtime Benefits",
+        "description": "Take advantage of new H.R.1 Tax Calculator provisions for tax-free tips (income under $160k) and overtime deduction (up to $12,500 single/$25,000 married filing jointly) using our US Tax Law Calculator.",
+        "icon": "clock",
+        "image": {
+          "src": "/imgs/features/3.png",
+          "alt": "Tips and overtime calculator"
+        }
+      },
+      {
+        "title": "Business Income Optimization",
+        "description": "Calculate QBI deduction at 23% for qualified business income. Our Big Beautiful Bill Calculator helps maximize deductions for self-employed and business owners.",
+        "icon": "briefcase",
+        "image": {
+          "src": "/imgs/features/4.png",
+          "alt": "Business income calculator"
+        }
+      }
+    ],
+    "disabled": false
+  },
+  "feature3": {
+    "name": "feature3",
+    "label": "Step-by-Step",
+    "title": "Simple Tax Calculation Process",
+    "description": "Follow our guided process to calculate your taxes accurately and maximize your deductions with the Big Beautiful Bill Calculator.",
+    "items": [
+      {
+        "title": "Income & Filing Status",
+        "description": "Start with your gross income and filing status. Our calculator automatically detects your tax bracket using federal rates: 10%, 12%, 22%, 24%, 32%, 35%, and 37%."
+      },
+      {
+        "title": "Deductions & Credits",
+        "description": "Add itemized deductions, apply the new $40,000 SALT cap, claim child tax credits ($2,500), and other applicable credits using our US Tax Law Calculator for maximum savings."
+      },
+      {
+        "title": "H.R.1 Specific Benefits",
+        "description": "Include tips income (tax-free under $160k), overtime deduction benefits, and enhanced QBI deduction using our American Tax Reform Calculator."
+      },
+      {
+        "title": "Final Results & Planning",
+        "description": "Review your complete tax summary, effective rates, and get recommendations for tax planning strategies with our Big Beautiful Bill Calculator."
+      }
+    ],
+    "disabled": false
+  },
+  "feature4": {
+    "name": "feature4",
+    "title": "Why Trust Our Big Beautiful Bill Calculator?",
+    "description": "Built with precision, security, and user experience in mind.",
+    "items": [
+      {
+        "title": "Professional-Grade Accuracy",
+        "description": "Our H.R.1 Tax Calculator is built with the same precision and accuracy that tax professionals rely on, making it America's most trusted Big Beautiful Bill Calculator.",
+        "icon": "shield",
+        "type": "feature"
+      },
+      {
+        "title": "100% Free & No Registration",
+        "description": "Access all features of our US Remittance Tax Calculator completely free without creating an account or providing payment information.",
+        "icon": "gift",
+        "type": "feature"
+      },
+      {
+        "title": "Secure & Private",
+        "description": "Your tax information is never stored or shared. All calculations in our American Tax Reform Calculator happen securely in your browser.",
+        "icon": "lock",
+        "type": "feature"
+      },
+      {
+        "title": "Export & Save Results",
+        "description": "Generate PDF reports and detailed summaries from our US Tax Law Calculator for your records or to share with your tax professional.",
+        "icon": "download",
+        "type": "feature"
+      }
+    ],
+    "disabled": false
+  },
+  "faq": {
+    "name": "faq",
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about our Big Beautiful Bill Tax Calculator features.",
+    "items": [
+      {
+        "title": "What is the Big Beautiful Bill Calculator and how does it work?",
+        "description": "The Big Beautiful Bill Calculator is a free US Remittance Tax Calculator based on H.R.1, the One Big Beautiful Bill Act. It helps you calculate federal and state taxes including new provisions for tips deduction, overtime benefits, increased SALT deduction cap to $40,000, and enhanced QBI deduction at 23%. Simply enter your income information and our US Tax Law Calculator does the rest."
+      },
+      {
+        "title": "How accurate is the H.R.1 Tax Calculator for my tax situation?",
+        "description": "Our American Tax Reform Calculator uses official tax brackets and provisions directly from the One Big Beautiful Bill Act. The calculator includes all current federal rates (10%, 12%, 22%, 24%, 32%, 35%, 37%) and state tax rates. While highly accurate for most situations, complex scenarios may require professional tax advisor consultation."
+      },
+      {
+        "title": "Is the Big Beautiful Bill Calculator really free to use?",
+        "description": "Yes! Our US Remittance Tax Calculator is completely free with no hidden fees, registration requirements, or premium features. You can access all features of our American Tax Reform Calculator without providing payment information or creating an account."
+      },
+      {
+        "title": "What new tax features are included in the US Tax Law Calculator?",
+        "description": "The One Big Beautiful Bill Tax Calculator includes major updates: tips tax deduction for income under $160k, overtime deduction up to $12,500 single/$25,000 married, increased SALT cap to $40,000, higher child tax credit of $2,500, permanent QBI deduction at 23%, and enhanced itemized deductions. All features comply with the latest H.R.1 provisions."
+      },
+      {
+        "title": "Can I save my calculations from the H.R.1 Tax Calculator?",
+        "description": "Yes, our Big Beautiful Bill Calculator allows you to export your tax calculations as PDF reports or save detailed summaries. This helps you keep records for your files or share results with tax professionals while maintaining complete privacy and security."
+      }
+    ],
+    "disabled": false
+  },
+  "cta": {
+    "name": "cta",
+    "title": "Ready to Calculate Your Taxes with Maximum Savings?",
+    "description": "Use our free Big Beautiful Bill Calculator to discover all available tax benefits, apply H.R.1 benefits, and plan effectively.",
+    "primary": "Calculate My Taxes Now",
+    "secondary": "Learn More About H.R.1"
+  }
+}

@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "theme.css";
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* 移动端性能优化 */
+@media (max-width: 768px) {
+  /* 减少移动端动画以提高性能 */
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  
+  /* 优化移动端滚动性能 */
+  * {
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+/* 优化字体渲染 */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeSpeed;
+}
+
+/* 减少重绘和回流 */
+img, video {
+  content-visibility: auto;
+  contain-intrinsic-size: 1px 1000px;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  :root {
+    --sidebar-background: var(--background);
+    --sidebar-foreground: var(--foreground);
+    --sidebar-primary: var(--primary);
+    --sidebar-primary-foreground: var(--primary-foreground);
+    --sidebar-accent: var(--background);
+    --sidebar-accent-foreground: var(--primary);
+    --sidebar-border: var(--border);
+    --sidebar-ring: var(--ring);
+  }
+  .dark {
+    --sidebar-background: var(--background);
+    --sidebar-foreground: var(--foreground);
+    --sidebar-primary: var(--primary);
+    --sidebar-primary-foreground: var(--primary-foreground);
+    --sidebar-accent: var(--accent);
+    --sidebar-accent-foreground: var(--accent-foreground);
+    --sidebar-border: var(--border);
+    --sidebar-ring: var(--ring);
+  }
+}
