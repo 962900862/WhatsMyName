@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import ConsoleLayout from "@/components/admin/layouts/console/layout";
 import { ReactNode } from "react";
 import { Sidebar } from "@/types/blocks/sidebar";

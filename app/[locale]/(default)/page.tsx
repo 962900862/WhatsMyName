@@ -8,7 +8,8 @@ import Feature3 from '@/components/content/feature3';
 import Feature4 from '@/components/content/feature4';
 import HowItWorks from '@/components/content/how-it-works';
 import FAQ from '@/components/content/faq';
-import CTA from '@/components/content/cta';
+export const runtime = 'edge';
+import CTA from "@/components/content/cta";
 
 export async function generateMetadata({
   params: { locale },

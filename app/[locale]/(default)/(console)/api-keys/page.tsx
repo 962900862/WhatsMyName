@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import Empty from "@/components/content/empty";
 import TableSlot from "@/components/admin/layouts/console/slots/table";
 import { Table as TableSlotType } from "@/types/slots/table";

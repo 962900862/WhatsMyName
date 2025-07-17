@@ -1,3 +1,5 @@
+"use client";
+export const runtime = 'edge';
 import { ApikeyStatus, insertApikey } from "@/models/apikey";
 
 import { Apikey } from "@/types/apikey";
@@ -53,7 +55,6 @@ export default async function CreateApiKeyPage() {
         data: FormData,
         passby: { user_uuid: string }
       ) => {
-        "use server";
 
         const { user_uuid } = passby;
         if (!user_uuid) {

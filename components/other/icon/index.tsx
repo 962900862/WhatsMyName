@@ -188,7 +188,8 @@ function getIcon(name: string): React.ComponentType<any> | null {
     "🎸": "Music2",      // 吉他 -> 使用Music2图标
     "✨": "Sparkles",    // 闪光
     "🎧": "Headphones",  // 耳机
-    "🎮": "Gamepad2"     // 游戏手柄
+    "🎮": "Gamepad2",    // 游戏手柄
+    "bar-chart": "BarChart",
   };
   
   const mappedIconName = shortNameMapping[name];
