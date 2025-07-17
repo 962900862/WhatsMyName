@@ -1,6 +1,7 @@
 export const runtime = 'edge';
 import { getOrdersByPaidEmail, getOrdersByUserUuid } from "@/models/order";
 import { getUserEmail, getUserUuid } from "@/services/user";
+import { headers } from "next/headers";
 
 import { Order } from "@/types/order";
 import { TableColumn } from "@/types/blocks/table";
@@ -12,8 +13,10 @@ import { redirect } from "next/navigation";
 
 export default async function MyOrdersPage() {
   const t = await getTranslations();
-
-  const user_uuid = await getUserUuid();
+  const h = headers();
+  const auth = h.get("Authorization");
+  const token = auth ? auth.replace("Bearer ", "") : "";
+  const user_uuid = await getUserUuid(token);
   const user_email = await getUserEmail();
 
   const callbackUrl = `${process.env.NEXT_PUBLIC_WEB_URL}/my-orders`;

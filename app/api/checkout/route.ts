@@ -7,6 +7,7 @@ import { Order } from "@/types/order";
 import Stripe from "stripe";
 import { findUserByUuid } from "@/models/user";
 import { getSnowId } from "@/lib/hash";
+import { headers } from "next/headers";
 
 export async function POST(req: Request) {
   try {
@@ -46,7 +47,10 @@ export async function POST(req: Request) {
       return respErr("invalid valid_months");
     }
 
-    const user_uuid = await getUserUuid();
+    const h = headers();
+    const auth = h.get("Authorization");
+    const token = auth ? auth.replace("Bearer ", "") : "";
+    const user_uuid = await getUserUuid(token);
     if (!user_uuid) {
       return respErr("no auth, please sign-in");
     }

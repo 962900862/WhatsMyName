@@ -5,7 +5,6 @@ import { User } from "@/types/user";
 import { auth } from "@/auth";
 import { getOneYearLaterTimestr } from "@/lib/time";
 import { getUserUuidByApiKey } from "@/models/apikey";
-import { headers } from "next/headers";
 import { increaseCredits } from "./credit";
 
 export async function saveUser(user: User) {
@@ -34,16 +33,14 @@ export async function saveUser(user: User) {
   }
 }
 
-export async function getUserUuid() {
+// 修改：token作为参数传入，彻底移除next/headers依赖
+export async function getUserUuid(token?: string) {
   let user_uuid = "";
-
-  const token = getBearerToken();
 
   if (token) {
     // api key
     if (token.startsWith("sk-")) {
       const user_uuid = await getUserUuidByApiKey(token);
-
       return user_uuid || "";
     }
   }
@@ -56,15 +53,7 @@ export async function getUserUuid() {
   return user_uuid;
 }
 
-export function getBearerToken() {
-  const h = headers();
-  const auth = h.get("Authorization");
-  if (!auth) {
-    return "";
-  }
-
-  return auth.replace("Bearer ", "");
-}
+// 移除getBearerToken和headers相关内容
 
 export async function getUserEmail() {
   let user_email = "";
@@ -77,8 +66,8 @@ export async function getUserEmail() {
   return user_email;
 }
 
-export async function getUserInfo() {
-  const user_uuid = await getUserUuid();
+export async function getUserInfo(token?: string) {
+  const user_uuid = await getUserUuid(token);
 
   if (!user_uuid) {
     return;

@@ -10,11 +10,14 @@ import { getIsoTimestr } from "@/lib/time";
 import { getNonceStr } from "@/lib/hash";
 import { getTranslations } from "next-intl/server";
 import { getUserUuid } from "@/services/user";
+import { headers } from "next/headers";
 
 export default async function CreateApiKeyPage() {
   const t = await getTranslations();
-
-  const user_uuid = await getUserUuid();
+  const h = headers();
+  const auth = h.get("Authorization");
+  const token = auth ? auth.replace("Bearer ", "") : "";
+  const user_uuid = await getUserUuid(token);
   if (!user_uuid) {
     return <Empty message="no auth" />;
   }

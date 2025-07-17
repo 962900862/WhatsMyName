@@ -7,11 +7,14 @@ import { getUserApikeys } from "@/models/apikey";
 import { getUserUuid } from "@/services/user";
 import moment from "moment";
 import { Apikey } from "@/types/apikey";
+import { headers } from "next/headers";
 
 export default async function ApiKeysPage() {
   const t = await getTranslations();
-
-  const user_uuid = await getUserUuid();
+  const h = headers();
+  const auth = h.get("Authorization");
+  const token = auth ? auth.replace("Bearer ", "") : "";
+  const user_uuid = await getUserUuid(token);
   if (!user_uuid) {
     return <Empty message="no auth" />;
   }
