@@ -1,4 +1,3 @@
-"use client";
 export const runtime = 'edge';
 import { ApikeyStatus, insertApikey } from "@/models/apikey";
 
