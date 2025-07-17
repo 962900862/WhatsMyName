@@ -1,12 +1,11 @@
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
-import { ArrowRight, ExternalLink } from "lucide-react";
+import { ArrowRight } from "lucide-react";
 
 interface CTASection {
   title: string;
   description: string;
   primary: string;
-  secondary: string;
 }
 
 interface CTAProps {
@@ -26,18 +25,11 @@ export default function CTA({ section }: CTAProps) {
             {section.description}
           </p>
 
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+          <div className="flex justify-center">
             <Button size="lg" className="text-lg px-8 py-4" asChild>
               <Link href="#tool">
                 {section.primary}
                 <ArrowRight className="ml-2 w-5 h-5" />
-              </Link>
-            </Button>
-            
-            <Button variant="outline" size="lg" className="text-lg px-8 py-4" asChild>
-              <Link href="The-One-Big-Beautiful-Bill-Section-by-Section.pdf">
-                {section.secondary}
-                <ExternalLink className="ml-2 w-5 h-5" />
               </Link>
             </Button>
           </div>

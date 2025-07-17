@@ -1,5 +1,5 @@
-// Structured Data (Schema.org JSON-LD) generation system for Big Beautiful Bill Calculator
-// 为Big Beautiful Bill Calculator项目生成各种页面类型的结构化数据
+// Structured Data (Schema.org JSON-LD) generation system for WhatsMyName
+// 为WhatsMyName项目生成各种页面类型的结构化数据
 
 export interface StructuredDataConfig {
   baseUrl: string;
@@ -13,8 +13,8 @@ export interface StructuredDataConfig {
 const defaultConfig: StructuredDataConfig = {
   baseUrl: 'https://bigbeautifulbillcalculator.org',
   locale: 'en',
-  siteName: 'Big Beautiful Bill Calculator',
-  organizationName: 'Big Beautiful Bill Calculator',
+  siteName: 'WhatsMyName',
+  organizationName: 'WhatsMyName',
   supportEmail: 'support@bigbeautifulbillcalculator.org'
 };
 

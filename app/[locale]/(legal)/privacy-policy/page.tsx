@@ -2,14 +2,14 @@ import type { Metadata } from "next";
 import { generateLegalPageStructuredData } from "@/lib/structured-data";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy - Big Beautiful Bill Calculator",
-  description: "Our privacy policy outlines how we protect your tax information when using the Big Beautiful Bill Calculator for 2025 tax calculations.",
+  title: "Privacy Policy - WhatsMyName",
+  description: "Our privacy policy outlines how we protect your tax information when using the WhatsMyName for 2025 tax calculations.",
   alternates: {
     canonical: "https://bigbeautifulbillcalculator.org/privacy-policy",
   },
   openGraph: {
-    title: "Privacy Policy - Big Beautiful Bill Calculator",
-    description: "Our privacy policy outlines how we protect your tax information when using the Big Beautiful Bill Calculator for 2025 tax calculations.",
+    title: "Privacy Policy - WhatsMyName",
+    description: "Our privacy policy outlines how we protect your tax information when using the WhatsMyName for 2025 tax calculations.",
   },
 };
 
@@ -29,13 +29,13 @@ export default function PrivacyPolicy({ params }: { params: { locale: string } }
 
         <h2>Your Tax Information Security is Our Priority</h2>
         <p>
-          At Big Beautiful Bill Calculator, we understand that your tax information is highly sensitive and personal. This Privacy Policy explains how we collect, use, and protect your information when you use our free US Remittance Tax Calculator and H.R.1 Tax Calculator 2025.
+          At WhatsMyName, we understand that your tax information is highly sensitive and personal. This Privacy Policy explains how we collect, use, and protect your information when you use our free US Remittance Tax Calculator and H.R.1 Tax Calculator 2025.
         </p>
 
         <h2>Information We Collect</h2>
         <h3>Tax Calculation Data</h3>
         <p>
-          When you use our Big Beautiful Bill Calculator, we may temporarily process the following information to provide accurate tax calculations:
+          When you use our WhatsMyName, we may temporarily process the following information to provide accurate tax calculations:
         </p>
         <ul>
           <li>Income information (wages, business income, investment income)</li>
@@ -117,7 +117,7 @@ export default function PrivacyPolicy({ params }: { params: { locale: string } }
 
         <h2>Children's Privacy</h2>
         <p>
-          Our Big Beautiful Bill Calculator is not intended for use by children under 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us immediately.
+          Our WhatsMyName is not intended for use by children under 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us immediately.
         </p>
 
         <h2>Changes to This Privacy Policy</h2>
@@ -140,7 +140,7 @@ export default function PrivacyPolicy({ params }: { params: { locale: string } }
         </p>
         <ul>
           <li><strong>Email:</strong> <a href="mailto:privacy@bigbeautifulbillcalculator.org">privacy@bigbeautifulbillcalculator.org</a></li>
-          <li><strong>Mailing Address:</strong> Big Beautiful Bill Calculator Privacy Team, 1234 Tax Avenue, Suite 2025, Washington, DC 20001</li>
+          <li><strong>Mailing Address:</strong> WhatsMyName Privacy Team, 1234 Tax Avenue, Suite 2025, Washington, DC 20001</li>
         </ul>
 
         <p>

@@ -12,14 +12,14 @@ export default async function DefaultLayout({
 }) {
   const t = await getTranslations({ locale, namespace: 'landing' });
 
-  // Create basic page structure for Big Beautiful Bill Calculator
+  // Create basic page structure for WhatsMyName
   const pageData = {
     header: {
       brand: {
         title: t('header.brand.title'),
         logo: {
           src: "/logo.png",
-          alt: "Big Beautiful Bill Calculator"
+          alt: "WhatsMyName"
         },
         url: "/"
       },
@@ -40,14 +40,14 @@ export default async function DefaultLayout({
     },
     footer: {
       brand: {
-        title: "Big Beautiful Bill Calculator",
+        title: "WhatsMyName",
         description: "The most beautiful and intuitive bill splitting calculator for groups, families, and friends.",
         logo: {
           src: "/logo.png",
-          alt: "Big Beautiful Bill Calculator"
+          alt: "WhatsMyName"
         }
       },
-      copyright: "© 2025 Big Beautiful Bill Calculator. All rights reserved.",
+      copyright: "© 2025 WhatsMyName. All rights reserved.",
       nav: {
         items: []
       },

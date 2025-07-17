@@ -57,7 +57,7 @@ export async function generateMetadata({
       title: t("metadata.title"),
       description: t("metadata.description"),
       url: BASE_URL,
-      siteName: "Big Beautiful Bill Calculator",
+      siteName: "WhatsMyName",
       type: "website",
       locale: locale,
     },
@@ -86,7 +86,7 @@ export default async function RootLayout({
   params: { locale: string };
 }>) {
   const messages = await getMessages();
-  const t = await getTranslations({ locale });
+  const t = await getTranslations({ locale, namespace: 'landing' });
 
   // 使用 headers API 获取当前请求的完整URL，然后解析出 pathname
   const headersList = headers();

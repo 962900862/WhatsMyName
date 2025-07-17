@@ -1,0 +1,76 @@
+{
+  "source": "whatsmyname.me",
+  "collectedAt": "2025-07-17",
+  "totalPlatforms": 705,
+  "description": "Platform list collected from whatsmyname.me by searching username 'testuser123'",
+  "majorPlatforms": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/{account}/",
+      "checkUrl": "https://www.instagram.com/{account}/",
+      "category": "social"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@{account}/",
+      "checkUrl": "https://www.youtube.com/@{account}/about",
+      "category": "video"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/{account}",
+      "checkUrl": "https://www.facebook.com/{account}",
+      "category": "social"
+    },
+    {
+      "name": "X (Twitter)",
+      "url": "https://x.com/{account}",
+      "checkUrl": "https://api.x.com/i/users/username_available.json?username={account}",
+      "category": "social"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/@{account}/",
+      "checkUrl": "https://www.tiktok.com/@{account}",
+      "category": "video"
+    },
+    {
+      "name": "Threads",
+      "url": "https://www.threads.com/@{account}/",
+      "checkUrl": "https://www.threads.com/@{account}",
+      "category": "social"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/user/{account}/",
+      "checkUrl": "https://www.reddit.com/user/{account}",
+      "category": "social"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/{account}",
+      "checkUrl": "https://api.github.com/users/{account}",
+      "category": "tech"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/{account}/",
+      "checkUrl": "https://www.linkedin.com/in/{account}",
+      "category": "professional"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.com/users/{account}",
+      "checkUrl": "https://discord.com/users/{account}",
+      "category": "gaming"
+    }
+  ],
+  "usage": {
+    "integration": "可以将这些平台URL模式集成到我们的用户名检查项目中",
+    "urlPattern": "使用 {account} 作为用户名占位符",
+    "categories": "可以根据category字段对平台进行分组",
+    "checkMethod": "使用checkUrl进行实际的用户名存在性检查"
+  },
+  "dataFile": "/Users/编程/localcoding/js项目/whatsmyname/platform-summary-report.json",
+  "fullDataAvailable": true
+}

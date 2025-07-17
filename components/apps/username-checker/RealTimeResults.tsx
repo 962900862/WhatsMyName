@@ -97,7 +97,7 @@ export default function RealTimeResults({ results, isSearching, onResultClick }:
       case 'social':
         return <div className="w-2 h-2 bg-blue-500 rounded-full"></div>;
       case 'gaming':
-        return <div className="w-2 h-2 bg-purple-500 rounded-full"></div>;
+        return <div className="w-2 h-2 bg-blue-500 rounded-full"></div>;
       case 'tech':
         return <div className="w-2 h-2 bg-green-500 rounded-full"></div>;
       case 'business':
@@ -122,7 +122,7 @@ export default function RealTimeResults({ results, isSearching, onResultClick }:
     <div className="space-y-4">
       {/* Live Activity Feed */}
       {isSearching && (
-        <Card className="bg-gradient-to-r from-blue-50 to-purple-50 border-blue-200">
+        <Card className="bg-gradient-to-r from-blue-50 to-blue-50 border-blue-200">
           <CardContent className="p-4">
             <div className="flex items-center gap-3 mb-3">
               <Signal className="h-5 w-5 text-blue-600 animate-pulse" />

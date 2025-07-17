@@ -93,13 +93,13 @@ export default function TaxCalculator() {
           <div className="flex items-center justify-center gap-3 mb-6">
             <div className="relative">
               <Calculator className="h-12 w-12 text-blue-600" />
-              <div className="absolute -top-1 -right-1 h-6 w-6 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full flex items-center justify-center">
+              <div className="absolute -top-1 -right-1 h-6 w-6 bg-gradient-to-r from-blue-500 to-blue-500 rounded-full flex items-center justify-center">
                 <DollarSign className="h-3 w-3 text-white" />
               </div>
             </div>
             <div className="min-h-[120px] flex items-center">
-              <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent leading-relaxed">
-                Big Beautiful Bill Calculator
+              <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold bg-gradient-to-r from-blue-600 via-blue-600 to-indigo-600 bg-clip-text text-transparent leading-relaxed">
+                WhatsMyName
               </h1>
             </div>
           </div>
@@ -115,7 +115,7 @@ export default function TaxCalculator() {
               <Target className="h-3 w-3 mr-1" />
               All 50 States + DC
             </Badge>
-            <Badge variant="secondary" className="bg-purple-100 text-purple-800">
+            <Badge variant="secondary" className="bg-blue-100 text-blue-800">
               <Calendar className="h-3 w-3 mr-1" />
               2025 Tax Year
             </Badge>
@@ -126,7 +126,7 @@ export default function TaxCalculator() {
           {/* Left Panel - Input Form */}
           <div className="lg:col-span-3">
             <Card className="shadow-2xl border-0 bg-white/95 backdrop-blur-sm">
-              <CardHeader className="bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-t-lg">
+              <CardHeader className="bg-gradient-to-r from-blue-600 to-blue-600 text-white rounded-t-lg">
                 <CardTitle className="flex items-center gap-2 text-xl">
                   <FileText className="h-6 w-6" />
                   Tax Information Input
@@ -302,7 +302,7 @@ export default function TaxCalculator() {
 
                       <div className="space-y-2">
                         <Label htmlFor="saltDeductions" className="flex items-center gap-2 font-medium">
-                          <Building className="h-4 w-4 text-purple-600" />
+                          <Building className="h-4 w-4 text-blue-600" />
                           SALT Deductions
                         </Label>
                         <Input
@@ -313,7 +313,7 @@ export default function TaxCalculator() {
                           onChange={(e) => handleInputChange('saltDeductions', e.target.value)}
                           className="border-2 focus:border-blue-500"
                         />
-                        <p className="text-xs text-purple-600 bg-purple-50 p-2 rounded">
+                        <p className="text-xs text-blue-600 bg-blue-50 p-2 rounded">
                           🎉 NEW: Increased cap to $40,000 for 2025!
                         </p>
                       </div>
@@ -450,7 +450,7 @@ export default function TaxCalculator() {
           <div className="lg:col-span-2 space-y-6">
             {/* Main Tax Summary */}
             <Card className="shadow-2xl border-0 bg-gradient-to-br from-white via-blue-50 to-indigo-50">
-              <CardHeader className="bg-gradient-to-r from-indigo-600 to-purple-600 text-white rounded-t-lg">
+              <CardHeader className="bg-gradient-to-r from-indigo-600 to-blue-600 text-white rounded-t-lg">
                 <CardTitle className="flex items-center gap-2">
                   <PieChart className="h-6 w-6" />
                   Tax Summary
@@ -524,9 +524,9 @@ export default function TaxCalculator() {
                             {formatPercentage(results.effectiveRate)}
                           </div>
                         </div>
-                        <div className="text-center p-4 bg-gradient-to-br from-purple-50 to-purple-100 rounded-lg">
-                          <div className="text-sm text-purple-600 font-medium">Marginal Rate</div>
-                          <div className="text-2xl font-bold text-purple-600">
+                        <div className="text-center p-4 bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg">
+                          <div className="text-sm text-blue-600 font-medium">Marginal Rate</div>
+                          <div className="text-2xl font-bold text-blue-600">
                             {formatPercentage(results.marginalRate)}
                           </div>
                         </div>
@@ -540,7 +540,7 @@ export default function TaxCalculator() {
                         </div>
                         <div className="w-full bg-gray-200 rounded-full h-3">
                           <div 
-                            className="bg-gradient-to-r from-blue-500 to-purple-500 h-3 rounded-full transition-all duration-300"
+                            className="bg-gradient-to-r from-blue-500 to-blue-500 h-3 rounded-full transition-all duration-300"
                             style={{ width: `${Math.min(results.effectiveRate, 50) * 2}%` }}
                           ></div>
                         </div>
@@ -652,13 +652,13 @@ export default function TaxCalculator() {
             )}
 
             {/* Federal Tax Brackets */}
-            <Card className="shadow-xl border-0 bg-gradient-to-br from-white to-purple-50">
+            <Card className="shadow-xl border-0 bg-gradient-to-br from-white to-blue-50">
               <CardHeader>
-                <CardTitle className="flex items-center gap-2 text-purple-800">
+                <CardTitle className="flex items-center gap-2 text-blue-800">
                   <TrendingUp className="h-5 w-5" />
                   2025 Federal Tax Brackets
                 </CardTitle>
-                <CardDescription className="text-purple-600">
+                <CardDescription className="text-blue-600">
                   {inputs.filingStatus === 'single' && 'Single Filers'}
                   {inputs.filingStatus === 'marriedJoint' && 'Married Filing Jointly'}
                   {inputs.filingStatus === 'marriedSeparate' && 'Married Filing Separately'}
@@ -677,14 +677,14 @@ export default function TaxCalculator() {
                         key={index} 
                         className={`flex justify-between items-center py-2 px-3 rounded-lg text-sm transition-colors ${
                           isCurrentBracket 
-                            ? 'bg-purple-100 border-2 border-purple-300' 
+                            ? 'bg-blue-100 border-2 border-blue-300' 
                             : 'bg-gray-50 hover:bg-gray-100'
                         }`}
                       >
-                        <span className={`${isCurrentBracket ? 'font-bold text-purple-900' : 'text-gray-600'}`}>
+                        <span className={`${isCurrentBracket ? 'font-bold text-blue-900' : 'text-gray-600'}`}>
                           {formatCurrency(bracket.min)} - {bracket.max === Infinity ? '∞' : formatCurrency(bracket.max)}
                         </span>
-                        <Badge variant={isCurrentBracket ? "default" : "outline"} className={isCurrentBracket ? 'bg-purple-600' : ''}>
+                        <Badge variant={isCurrentBracket ? "default" : "outline"} className={isCurrentBracket ? 'bg-blue-600' : ''}>
                           {formatPercentage(bracket.rate * 100)}
                         </Badge>
                       </div>

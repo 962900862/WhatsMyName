@@ -27,10 +27,10 @@ export async function generateMetadata(): Promise<Metadata> {
   
   return {
     title: {
-      absolute: "Legal Information - Big Beautiful Bill Calculator",
+      absolute: "Legal Information - WhatsMyName",
     },
-    description: "Legal information, privacy policy and terms of service for Big Beautiful Bill Calculator.",
-    keywords: "legal, privacy policy, terms of service, bill calculator",
+    description: "Legal information, privacy policy and terms of service for WhatsMyName.",
+    keywords: "legal, privacy policy, terms of service, username checker",
   };
 }
 
@@ -49,10 +49,10 @@ export default async function LegalLayout({
   const pageData = {
     header: {
       brand: {
-        title: "Bill Calculator",
+        title: "WhatsMyName",
         logo: {
           src: "/logo.png",
-          alt: "Big Beautiful Bill Calculator"
+          alt: "WhatsMyName"
         },
         url: "/"
       },
@@ -65,14 +65,14 @@ export default async function LegalLayout({
     },
     footer: {
       brand: {
-        title: "Big Beautiful Bill Calculator",
+        title: "WhatsMyName",
         description: "The most beautiful and intuitive bill splitting calculator for groups, families, and friends.",
         logo: {
           src: "/logo.png",
-          alt: "Big Beautiful Bill Calculator"
+          alt: "WhatsMyName"
         }
       },
-      copyright: "© 2025 Big Beautiful Bill Calculator. All rights reserved.",
+      copyright: "© 2025 WhatsMyName. All rights reserved.",
       nav: {
         items: []
       },

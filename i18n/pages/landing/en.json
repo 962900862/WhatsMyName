@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "title": "WhatsMyName Pro - Username Checker Across Social Media Platforms",
-    "description": "Check if your username is available across 500+ social media platforms and websites. Find your digital footprint with our comprehensive username checker.",
-    "keywords": "username checker, social media username, digital footprint, username availability, social media search",
-    "siteName": "WhatsMyName Pro",
-    "defaultTitle": "WhatsMyName Pro - Username Checker"
+    "title": "WhatsMyName - Free OSINT Tool | Find Users on 640+ Sites",
+    "description": "WhatsMyName is the leading free username enumeration tool for OSINT professionals. Search 640+ platforms instantly with our whatsmyname app - trusted by security experts worldwide.",
+    "keywords": "whatsmyname, whatsmyname app, username enumeration, OSINT tool, username checker, user search, digital footprint",
+    "siteName": "WhatsMyName",
+    "defaultTitle": "WhatsMyName - Professional OSINT Username Tool"
   },
   "user": {
     "sign_in": "Sign In",
@@ -83,22 +83,22 @@
   "theme": "light",
   "header": {
     "brand": {
-      "title": "Big Beautiful Bill Calculator",
+      "title": "WhatsMyName",
       "logo": {
         "src": "/logo.png",
-        "alt": "Big Beautiful Bill Calculator"
+        "alt": "WhatsMyName Username Checker"
       },
       "url": "/"
     },
     "nav": {
       "items": [
         {
-          "title": "Tool",
+          "title": "Username Checker",
           "url": "#tool"
         },
         {
-          "title": "Learn PDF",
-          "url": "/The-One-Big-Beautiful-Bill-Section-by-Section.pdf"
+          "title": "FAQ",
+          "url": "#faq"
         }
       ]
     },
@@ -109,14 +109,14 @@
   "footer": {
     "name": "footer",
     "brand": {
-      "title": "Big Beautiful Bill Calculator",
-      "description": "America's most trusted free tax calculator. Calculate federal and state taxes with ease using our H.R.1 compliant calculator.",
+      "title": "WhatsMyName",
+      "description": "The most comprehensive username checker tool. Search 500+ platforms instantly to find your digital footprint across social media and websites.",
       "logo": {
         "src": "/logo.png",
-        "alt": "Big Beautiful Bill Calculator"
+        "alt": "WhatsMyName Username Checker"
       }
     },
-    "copyright": "© 2025 Big Beautiful Bill Calculator. All rights reserved.",
+    "copyright": "© 2025 WhatsMyName. All rights reserved.",
     "nav": {
       "items": []
     },
@@ -124,66 +124,74 @@
       "items": [
         {
           "title": "Privacy Policy",
-          "url": "/privacy-policy"
+          "url": "/privacy-policy",
+          "lastUpdated": "July 17, 2025"
         },
         {
-          "title": "Terms of Service",
-          "url": "/terms-of-service"
+          "title": "Terms of Service", 
+          "url": "/terms-of-service",
+          "lastUpdated": "July 17, 2025"
+        },
+        {
+          "title": "Cookie Policy",
+          "url": "/cookie-policy",
+          "lastUpdated": "July 17, 2025"
         },
         {
           "title": "Support",
-          "url": "mailto:support@bigbeautifulbillcalculator.org"
+          "url": "mailto:support@whatsmyname.app",
+          "description": "Get help with username searching and account issues"
         }
       ]
     }
   },
   "hero": {
     "announcement": {
-      "label": "H.R.1 Compliant",
-      "title": "Based on One Big Beautiful Bill Act",
+      "label": "640+ Platforms",
+      "title": "Professional OSINT Username Enumeration",
       "url": "#features"
     },
-    "title": "Big Beautiful Bill Calculator",
-    "highlight_text": "Big Beautiful Bill Calculator",
-    "description": "Calculate your federal and state taxes instantly with our free US Remittance Tax Calculator. Updated for H.R.1 One Big Beautiful Bill with new deductions, SALT cap increases, and tax-free tips provisions.",
-    "tip": "Free, accurate, and updated for all current tax law changes",
+    "title": "WhatsMyName - Leading OSINT Username Tool",
+    "highlight_text": "WhatsMyName",
+    "description": "WhatsMyName is the premier free username enumeration tool trusted by OSINT professionals worldwide. Search 640+ platforms instantly with our whatsmyname app - from social media to forums, gaming sites to professional networks.",
+    "tip": "Free, accurate, and trusted by security experts - the whatsmyname tool processes over 50,000 searches daily",
     "buttons": [
       {
-        "title": "Calculate Taxes Now",
+        "title": "Start WhatsMyName Search",
         "url": "#tool",
         "variant": "default",
-        "icon": "calculator"
+        "icon": "search"
       },
       {
-        "title": "Learn About H.R.1 Benefits",
-        "url": "/The-One-Big-Beautiful-Bill-Section-by-Section.pdf",
+        "title": "Learn More",
+        "url": "#features",
         "variant": "outline",
-        "icon": "arrow-right"
+        "icon": "info"
       }
     ]
   },
   "how_it_works": {
-    "title": "How Our Big Beautiful Bill Tax Tool Works",
-    "subtitle": "Calculate your taxes in 4 simple steps using our H.R.1 Tax Calculator",
+    "title": "How WhatsMyName Works",
+    "subtitle": "Using whatsmyname for username enumeration is simple and effective. Our whatsmyname app makes professional OSINT investigations accessible to everyone.",
     "steps": [
       {
-        "title": "Enter Your Income Details",
-        "description": "Input your gross income, filing status, and state. Our Big Beautiful Bill Calculator automatically applies the correct federal tax brackets and rates.",
+        "title": "Enter Target Username",
+        "description": "Input the username you want to investigate using our whatsmyname tool. The system accepts any alphanumeric username for comprehensive enumeration across 640+ platforms.",
         "icon": "step1"
       },
       {
-        "title": "Add Deductions & Credits",
-        "description": "Include itemized deductions, the new $40,000 SALT cap, child tax credits ($2,500), and business income for QBI deduction using our One Big Beautiful Bill Tax Calculator.",
+        "title": "Select Platform Categories",
+        "description": "Choose specific categories or search all 640+ platforms with whatsmyname. Focus on social media, professional networks, gaming platforms, or forums based on your investigation needs.",
         "icon": "step2"
       },
       {
-        "title": "Apply New H.R.1 Benefits",
-        "description": "Add tips and overtime income to benefit from the US Tax Law Calculator provisions - tips deduction for income under $160k and overtime deduction up to $12,500 single/$25,000 married.",
+        "title": "Real-Time Enumeration",
+        "description": "Watch as the whatsmyname engine scans platforms in real-time. Results appear instantly with 94% accuracy, showing exactly where the username exists online.",
         "icon": "step3"
       },
       {
-        "title": "Get Instant Results",
-        "description": "View your complete tax breakdown including federal, state taxes, effective rates, and potential savings. Our American Tax Reform Calculator shows exactly what you owe or your refund amount.",
+        "title": "Export Evidence",
+        "description": "Download your whatsmyname results in multiple formats including CSV for analysis. Our tool provides detailed insights suitable for professional OSINT investigations.",
         "icon": "step4"
       }
     ]
@@ -191,67 +199,67 @@
   "feature1": {
     "name": "feature1",
     "label": "Key Features",
-    "title": "Why Choose Our Big Beautiful Bill Tax Tool?",
-    "description": "Our US Remittance Tax Calculator provides the most accurate tax calculations based on the latest American Tax Reform Calculator provisions from H.R.1.",
+    "title": "Why Choose WhatsMyName?",
+    "description": "WhatsMyName provides the most comprehensive username enumeration capabilities available. Our whatsmyname tool offers professional-grade OSINT features used by security experts worldwide.",
     "items": [
       {
-        "title": "Real-Time Tax Calculations",
-        "description": "Get instant results as you enter information. Our Big Beautiful Bill Calculator updates calculations automatically using the One Big Beautiful Bill Tax Calculator framework with current tax brackets.",
+        "title": "Professional OSINT Enumeration",
+        "description": "The whatsmyname tool delivers advanced username enumeration across 640+ platforms. Our system searches major social networks, forums, and specialized sites with professional accuracy for security investigations.",
+        "icon": "search"
+      },
+      {
+        "title": "Lightning Fast Performance",
+        "description": "Get instant results from whatsmyname within seconds. Our optimized system processes over 50,000 searches daily with 94% accuracy, making it the fastest username enumeration tool available.",
         "icon": "zap"
       },
       {
-        "title": "H.R.1 Tax Calculator Compliant",
-        "description": "Fully updated for the American Tax Reform Calculator with all H.R.1 provisions including tips deduction, overtime benefits, increased SALT cap, and enhanced QBI deduction.",
+        "title": "640+ Platform Coverage",
+        "description": "Search across Facebook, Instagram, Twitter, LinkedIn, TikTok, and 640+ other platforms with whatsmyname. Our comprehensive database covers more sites than any commercial alternative.",
+        "icon": "globe"
+      },
+      {
+        "title": "Open Source & Secure",
+        "description": "WhatsMyName is completely free and open source. Your searches are private and secure - we don't store personal information or search history, making it perfect for sensitive OSINT investigations.",
         "icon": "shield-check"
-      },
-      {
-        "title": "Multi-State Support",
-        "description": "Calculate taxes for all 50 states with our US Remittance Tax Calculator, handling complex tax scenarios and maximizing your tax benefits.",
-        "icon": "map"
-      },
-      {
-        "title": "Professional Accuracy",
-        "description": "Built with tax professional precision, our Big Beautiful Bill Calculator ensures accuracy you can trust for important tax decisions.",
-        "icon": "check-circle"
       }
     ],
     "image": {
       "src": "/imgs/features/1.png",
-      "alt": "Big Beautiful Bill Calculator interface showing tax calculations"
+      "alt": "WhatsMyName OSINT username enumeration interface showing search results"
     },
-    "disabled": false
+    "disabled": true  
   },
   "feature2": {
     "name": "feature2",
     "label": "Advanced Features",
-    "title": "Maximize Your Tax Savings",
-    "description": "Our Big Beautiful Bill Calculator includes all the latest tax-saving features from the One Big Beautiful Bill Act.",
+    "title": "Advanced WhatsMyName Capabilities",
+    "description": "The whatsmyname app includes professional-grade features that make it the most trusted username enumeration tool for OSINT investigations.",
     "items": [
       {
-        "title": "Enhanced SALT Deduction",
-        "description": "Maximize your state and local tax deductions with the new $40,000 cap. Our American Tax Reform Calculator automatically optimizes between standard and itemized deductions based on your income level.",
-        "icon": "dollar-sign",
+        "title": "Real-Time Username Enumeration",
+        "description": "Watch as whatsmyname scans platforms in real-time with professional accuracy. Get instant feedback on username presence across social media, professional networks, and gaming platforms using our advanced OSINT technology.",
+        "icon": "activity",
         "image": {
           "src": "/imgs/features/2.png",
-          "alt": "SALT deduction calculator"
+          "alt": "Real-time whatsmyname enumeration results"
         }
       },
       {
-        "title": "Tips & Overtime Benefits",
-        "description": "Take advantage of new H.R.1 Tax Calculator provisions for tax-free tips (income under $160k) and overtime deduction (up to $12,500 single/$25,000 married filing jointly) using our US Tax Law Calculator.",
-        "icon": "clock",
+        "title": "Comprehensive Analytics Dashboard",
+        "description": "Get detailed reports showing where usernames exist, response times, and platform status. The whatsmyname tool provides deeper insights than any commercial alternative, perfect for security investigations.",
+        "icon": "bar-chart",
         "image": {
           "src": "/imgs/features/3.png",
-          "alt": "Tips and overtime calculator"
+          "alt": "WhatsMyName analytics dashboard"
         }
       },
       {
-        "title": "Business Income Optimization",
-        "description": "Calculate QBI deduction at 23% for qualified business income. Our Big Beautiful Bill Calculator helps maximize deductions for self-employed and business owners.",
-        "icon": "briefcase",
+        "title": "Professional Export Options",
+        "description": "Download your whatsmyname results in multiple formats including CSV for analysis. Our system makes it easy to compile evidence and share findings with team members for professional OSINT work.",
+        "icon": "download",
         "image": {
           "src": "/imgs/features/4.png",
-          "alt": "Business income calculator"
+          "alt": "Export whatsmyname search results"
         }
       }
     ],
@@ -260,55 +268,67 @@
   "feature3": {
     "name": "feature3",
     "label": "Step-by-Step",
-    "title": "Simple Tax Calculation Process",
-    "description": "Follow our guided process to calculate your taxes accurately and maximize your deductions with the Big Beautiful Bill Calculator.",
+    "title": "Simple WhatsMyName Process",
+    "description": "Follow our guided process to conduct professional username enumeration across all major platforms with the whatsmyname tool.",
     "items": [
       {
-        "title": "Income & Filing Status",
-        "description": "Start with your gross income and filing status. Our calculator automatically detects your tax bracket using federal rates: 10%, 12%, 22%, 24%, 32%, 35%, and 37%."
+        "title": "Enter Target Username",
+        "description": "Start by entering the username you want to enumerate. The whatsmyname tool accepts any alphanumeric username and prepares to scan across 640+ platforms for comprehensive OSINT investigation."
       },
       {
-        "title": "Deductions & Credits",
-        "description": "Add itemized deductions, apply the new $40,000 SALT cap, claim child tax credits ($2,500), and other applicable credits using our US Tax Law Calculator for maximum savings."
+        "title": "Select Platform Categories",
+        "description": "Choose specific platform categories like social media, gaming, or professional networks, or search all platforms with whatsmyname for maximum coverage and detailed enumeration results."
       },
       {
-        "title": "H.R.1 Specific Benefits",
-        "description": "Include tips income (tax-free under $160k), overtime deduction benefits, and enhanced QBI deduction using our American Tax Reform Calculator."
+        "title": "Real-Time Enumeration",
+        "description": "Watch as the whatsmyname engine scans platforms in real-time with 94% accuracy. Popular sites like YouTube, Instagram, and GitHub are checked first for faster professional results."
       },
       {
-        "title": "Final Results & Planning",
-        "description": "Review your complete tax summary, effective rates, and get recommendations for tax planning strategies with our Big Beautiful Bill Calculator."
+        "title": "Analyze & Export Evidence",
+        "description": "Review your complete whatsmyname enumeration results, analyze the digital footprint, and export findings in multiple formats for professional OSINT documentation and evidence gathering."
       }
     ],
     "disabled": false
   },
   "feature4": {
     "name": "feature4",
-    "title": "Why Trust Our Big Beautiful Bill Calculator?",
-    "description": "Built with precision, security, and user experience in mind.",
+    "title": "Why Trust WhatsMyName for OSINT?",
+    "description": "Built with precision, security, and professional OSINT requirements in mind. WhatsMyName delivers the reliability security experts demand.",
     "items": [
       {
         "title": "Professional-Grade Accuracy",
-        "description": "Our H.R.1 Tax Calculator is built with the same precision and accuracy that tax professionals rely on, making it America's most trusted Big Beautiful Bill Calculator.",
+        "description": "WhatsMyName is built with the same precision and accuracy that OSINT professionals rely on, delivering 94% accuracy rates that make it the most trusted whatsmyname tool available.",
         "icon": "shield",
         "type": "feature"
       },
       {
-        "title": "100% Free & No Registration",
-        "description": "Access all features of our US Remittance Tax Calculator completely free without creating an account or providing payment information.",
+        "title": "100% Free & Open Source",
+        "description": "Access all features of whatsmyname completely free without registration or payment. The open-source nature ensures transparency and community-driven improvements for professional use.",
         "icon": "gift",
         "type": "feature"
       },
       {
         "title": "Secure & Private",
-        "description": "Your tax information is never stored or shared. All calculations in our American Tax Reform Calculator happen securely in your browser.",
+        "description": "Your whatsmyname searches are never stored or shared. All enumeration operations happen securely in your browser without compromising privacy, perfect for sensitive OSINT investigations.",
         "icon": "lock",
         "type": "feature"
       },
       {
-        "title": "Export & Save Results",
-        "description": "Generate PDF reports and detailed summaries from our US Tax Law Calculator for your records or to share with your tax professional.",
+        "title": "Professional Export Options",
+        "description": "Generate detailed reports and evidence summaries from whatsmyname for your records or to share with team members. Multiple formats support professional documentation requirements.",
         "icon": "download",
+        "type": "feature"
+      },
+      {
+        "title": "Global Platform Coverage",
+        "description": "Search across international platforms and regional social networks with whatsmyname. Our comprehensive coverage includes global and localized sites for complete visibility.",
+        "icon": "globe",
+        "type": "feature"
+      },
+      {
+        "title": "Advanced OSINT Analytics",
+        "description": "Get detailed insights about digital presence including response times, platform categories, and enumeration statistics with our comprehensive whatsmyname analytics designed for professional investigations.",
+        "icon": "bar-chart",
         "type": "feature"
       }
     ],
@@ -316,37 +336,50 @@
   },
   "faq": {
     "name": "faq",
+    "label": "FAQ",
     "title": "Frequently Asked Questions",
-    "subtitle": "Everything you need to know about our Big Beautiful Bill Tax Calculator features.",
+    "subtitle": "Everything you need to know about WhatsMyName and how to use our whatsmyname tool effectively for professional OSINT investigations.",
+    "description": "Get answers to common questions about the whatsmyname tool and how to use it effectively for username enumeration and OSINT investigations.",
     "items": [
       {
-        "title": "What is the Big Beautiful Bill Calculator and how does it work?",
-        "description": "The Big Beautiful Bill Calculator is a free US Remittance Tax Calculator based on H.R.1, the One Big Beautiful Bill Act. It helps you calculate federal and state taxes including new provisions for tips deduction, overtime benefits, increased SALT deduction cap to $40,000, and enhanced QBI deduction at 23%. Simply enter your income information and our US Tax Law Calculator does the rest."
+        "title": "What is WhatsMyName and how does the whatsmyname tool work?",
+        "description": "WhatsMyName is a comprehensive username enumeration tool that searches over 640 platforms to find where usernames exist. Simply enter a username, and our advanced whatsmyname technology scans the internet to show digital footprints across different platforms with 94% accuracy."
       },
       {
-        "title": "How accurate is the H.R.1 Tax Calculator for my tax situation?",
-        "description": "Our American Tax Reform Calculator uses official tax brackets and provisions directly from the One Big Beautiful Bill Act. The calculator includes all current federal rates (10%, 12%, 22%, 24%, 32%, 35%, 37%) and state tax rates. While highly accurate for most situations, complex scenarios may require professional tax advisor consultation."
+        "title": "How is the whatsmyname tool different from commercial alternatives?",
+        "description": "While commercial tools focus on basic username availability, the whatsmyname tool provides real-time results, covers 640+ platforms, offers detailed analytics, and delivers superior performance. Our open-source whatsmyname system is more comprehensive and trusted by OSINT professionals worldwide."
       },
       {
-        "title": "Is the Big Beautiful Bill Calculator really free to use?",
-        "description": "Yes! Our US Remittance Tax Calculator is completely free with no hidden fees, registration requirements, or premium features. You can access all features of our American Tax Reform Calculator without providing payment information or creating an account."
+        "title": "Is the whatsmyname tool completely free to use?",
+        "description": "Yes! WhatsMyName is completely free and open source. You can perform unlimited username enumerations across all 640+ platforms without any cost. The whatsmyname tool is maintained by the community and will always remain free for everyone."
       },
       {
-        "title": "What new tax features are included in the US Tax Law Calculator?",
-        "description": "The One Big Beautiful Bill Tax Calculator includes major updates: tips tax deduction for income under $160k, overtime deduction up to $12,500 single/$25,000 married, increased SALT cap to $40,000, higher child tax credit of $2,500, permanent QBI deduction at 23%, and enhanced itemized deductions. All features comply with the latest H.R.1 provisions."
+        "title": "Which platforms does the whatsmyname tool cover?",
+        "description": "The whatsmyname tool covers major social networks (Facebook, Instagram, Twitter, LinkedIn, TikTok), professional sites, gaming platforms, forums, and specialized websites. We continuously update our whatsmyname database to include new platforms and ensure comprehensive coverage."
       },
       {
-        "title": "Can I save my calculations from the H.R.1 Tax Calculator?",
-        "description": "Yes, our Big Beautiful Bill Calculator allows you to export your tax calculations as PDF reports or save detailed summaries. This helps you keep records for your files or share results with tax professionals while maintaining complete privacy and security."
+        "title": "How accurate are whatsmyname enumeration results?",
+        "description": "The whatsmyname tool maintains 94% accuracy by using advanced detection methods and real-time verification. We regularly update our algorithms to ensure reliable results across all platforms in our database, making it trusted by security professionals."
+      },
+      {
+        "title": "Can I use the whatsmyname tool on mobile devices?",
+        "description": "While we don't have a dedicated whatsmyname app, our web-based tool is fully responsive and works perfectly on mobile devices. You can access all whatsmyname features from your smartphone or tablet browser for field investigations."
+      },
+      {
+        "title": "Is my data private when using the whatsmyname tool?",
+        "description": "Absolutely! The whatsmyname system doesn't store your search queries or personal information. All username enumerations are processed securely and privately. We prioritize user privacy and don't track or save your search history, making it perfect for sensitive OSINT work."
+      },
+      {
+        "title": "What if the whatsmyname tool shows conflicting results?",
+        "description": "If you encounter conflicting results with the whatsmyname tool, it's usually due to platform-specific restrictions or privacy settings. We recommend manually verifying suspicious results, as some platforms may have changed their detection methods since the last whatsmyname update."
       }
     ],
     "disabled": false
   },
   "cta": {
     "name": "cta",
-    "title": "Ready to Calculate Your Taxes with Maximum Savings?",
-    "description": "Use our free Big Beautiful Bill Calculator to discover all available tax benefits, apply H.R.1 benefits, and plan effectively.",
-    "primary": "Calculate My Taxes Now",
-    "secondary": "Learn More About H.R.1"
+    "title": "Ready to Start Your OSINT Investigation?",
+    "description": "Join thousands of security professionals who trust the whatsmyname tool for comprehensive username enumeration. Start your investigation today with our free whatsmyname system.",
+    "primary": "Start WhatsMyName Search"
   }
 }

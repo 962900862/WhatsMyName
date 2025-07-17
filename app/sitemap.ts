@@ -18,7 +18,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }
   }
 
-  // Static pages for Big Beautiful Bill Calculator
+  // Static pages for WhatsMyName
   const staticRoutes = ['', '/privacy-policy', '/terms-of-service', '/cookie-policy'];
   const staticPages = staticRoutes.flatMap((route) => {
     return locales.map((locale) => ({

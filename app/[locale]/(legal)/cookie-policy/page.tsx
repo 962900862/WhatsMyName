@@ -2,14 +2,14 @@ import type { Metadata } from "next";
 import { generateLegalPageStructuredData } from "@/lib/structured-data";
 
 export const metadata: Metadata = {
-  title: "Cookie Policy - Big Beautiful Bill Calculator",
-  description: "Learn about how Big Beautiful Bill Calculator uses cookies to enhance your tax calculation experience while protecting your privacy.",
+  title: "Cookie Policy - WhatsMyName",
+  description: "Learn about how WhatsMyName uses cookies to enhance your tax calculation experience while protecting your privacy.",
   alternates: {
     canonical: "https://bigbeautifulbillcalculator.org/cookie-policy",
   },
   openGraph: {
-    title: "Cookie Policy - Big Beautiful Bill Calculator",
-    description: "Learn about how Big Beautiful Bill Calculator uses cookies to enhance your tax calculation experience while protecting your privacy.",
+    title: "Cookie Policy - WhatsMyName",
+    description: "Learn about how WhatsMyName uses cookies to enhance your tax calculation experience while protecting your privacy.",
   },
 };
 
@@ -29,12 +29,12 @@ export default function CookiePolicy({ params }: { params: { locale: string } })
 
         <h2>Introduction</h2>
         <p>
-          At Big Beautiful Bill Calculator, we believe in transparency about how we collect and use data when you use our free US Remittance Tax Calculator. This Cookie Policy explains how and why we use cookies and similar technologies on our website to provide you with the best possible tax calculation experience.
+          At WhatsMyName, we believe in transparency about how we collect and use data when you use our free US Remittance Tax Calculator. This Cookie Policy explains how and why we use cookies and similar technologies on our website to provide you with the best possible tax calculation experience.
         </p>
 
         <h2>What Are Cookies</h2>
         <p>
-          Cookies are small text files that are stored on your device (computer, tablet, smartphone) when you visit our Big Beautiful Bill Calculator website. These files contain information that helps us provide you with a better experience by:
+          Cookies are small text files that are stored on your device (computer, tablet, smartphone) when you visit our WhatsMyName website. These files contain information that helps us provide you with a better experience by:
         </p>
         <ul>
           <li>Remembering your calculator preferences and settings</li>
@@ -143,7 +143,7 @@ export default function CookiePolicy({ params }: { params: { locale: string } })
 
         <h3>Cookie Consent Management</h3>
         <p>
-          When you first visit our Big Beautiful Bill Calculator, you can choose which types of cookies to accept:
+          When you first visit our WhatsMyName, you can choose which types of cookies to accept:
         </p>
         <ul>
           <li><strong>Accept All:</strong> Enable all cookies for the best experience</li>
@@ -250,7 +250,7 @@ export default function CookiePolicy({ params }: { params: { locale: string } })
         <ul>
           <li><strong>Email:</strong> <a href="mailto:privacy@bigbeautifulbillcalculator.org">privacy@bigbeautifulbillcalculator.org</a></li>
           <li><strong>Cookie Questions:</strong> <a href="mailto:cookies@bigbeautifulbillcalculator.org">cookies@bigbeautifulbillcalculator.org</a></li>
-          <li><strong>Mailing Address:</strong> Big Beautiful Bill Calculator Privacy Team, 1234 Tax Avenue, Suite 2025, Washington, DC 20001</li>
+          <li><strong>Mailing Address:</strong> WhatsMyName Privacy Team, 1234 Tax Avenue, Suite 2025, Washington, DC 20001</li>
         </ul>
 
         <h2>Your Rights</h2>

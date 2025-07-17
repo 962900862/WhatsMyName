@@ -1,0 +1,4415 @@
+{
+  "totalPlatforms": 705,
+  "categories": [
+    "uncategorized"
+  ],
+  "platformsByCategory": {
+    "uncategorized": 705
+  },
+  "allPlatforms": [
+    {
+      "name": "Instagram",
+      "category": "uncategorized",
+      "url": "https://www.instagram.com/{account}/",
+      "checkUrl": "https://www.instagram.com/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "YouTube",
+      "category": "uncategorized",
+      "checkUrl": "https://www.youtube.com/@{account}/about",
+      "knownAccounts": []
+    },
+    {
+      "name": "facebook",
+      "category": "uncategorized",
+      "checkUrl": "https://www.facebook.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "X",
+      "category": "uncategorized",
+      "url": "https://x.com/{account}",
+      "checkUrl": "https://api.x.com/i/users/username_available.json?username={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Tiktok",
+      "category": "uncategorized",
+      "url": "https://www.tiktok.com/@{account}/",
+      "checkUrl": "https://www.tiktok.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Threads",
+      "category": "uncategorized",
+      "url": "https://www.threads.com/@{account}/",
+      "checkUrl": "https://www.threads.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Reddit",
+      "category": "uncategorized",
+      "url": "https://www.reddit.com/user/{account}/",
+      "checkUrl": "https://www.reddit.com/user/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "21buttons",
+      "category": "uncategorized",
+      "checkUrl": "https://www.21buttons.com/buttoner/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "247sports",
+      "category": "uncategorized",
+      "checkUrl": "https://247sports.com/User/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "35photo",
+      "category": "uncategorized",
+      "checkUrl": "https://35photo.pro/@{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "3DNews",
+      "category": "uncategorized",
+      "checkUrl": "https://forum.3dnews.tech/member.php?username={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "3dtoday",
+      "category": "uncategorized",
+      "checkUrl": "https://3dtoday.ru/blogs/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "7cup",
+      "category": "uncategorized",
+      "checkUrl": "https://www.7cups.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "7dach",
+      "category": "uncategorized",
+      "checkUrl": "https://7dach.ru/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "about.me",
+      "category": "uncategorized",
+      "checkUrl": "https://about.me/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "ACF",
+      "category": "uncategorized",
+      "checkUrl": "https://support.advancedcustomfields.com/forums/users/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "AdmireMe.VIP",
+      "category": "uncategorized",
+      "checkUrl": "https://admireme.vip/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Adult_Forum",
+      "category": "uncategorized",
+      "checkUrl": "https://adultforum.gr/{account}-glamour-escorts/",
+      "knownAccounts": []
+    },
+    {
+      "name": "adultism",
+      "category": "uncategorized",
+      "checkUrl": "https://www.adultism.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "ADVFN",
+      "category": "uncategorized",
+      "checkUrl": "https://uk.advfn.com/forum/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Airline_Pilot_Life",
+      "category": "uncategorized",
+      "url": "https://airlinepilot.life/u/{account}",
+      "checkUrl": "https://airlinepilot.life/u/{account}.json",
+      "knownAccounts": []
+    },
+    {
+      "name": "Airliners",
+      "category": "uncategorized",
+      "checkUrl": "https://www.airliners.net/user/{account}/profile",
+      "knownAccounts": []
+    },
+    {
+      "name": "akniga",
+      "category": "uncategorized",
+      "checkUrl": "https://akniga.org/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Albicla",
+      "category": "uncategorized",
+      "url": "https://albicla.com/{account}",
+      "checkUrl": "https://albicla.com/{account}/post/1",
+      "knownAccounts": []
+    },
+    {
+      "name": "alik",
+      "category": "uncategorized",
+      "checkUrl": "https://www.alik.cz/u/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "allmylinks",
+      "category": "uncategorized",
+      "checkUrl": "https://allmylinks.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Alura",
+      "category": "uncategorized",
+      "checkUrl": "https://cursos.alura.com.br/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Ameblo",
+      "category": "uncategorized",
+      "checkUrl": "https://ameblo.jp/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "AmericanThinker",
+      "category": "uncategorized",
+      "checkUrl": "https://www.americanthinker.com/author/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "AniList",
+      "category": "uncategorized",
+      "url": "https://anilist.co/user/{account}",
+      "checkUrl": "https://graphql.anilist.co",
+      "knownAccounts": []
+    },
+    {
+      "name": "Anime-Planet",
+      "category": "uncategorized",
+      "url": "https://www.anime-planet.com/users/{account}",
+      "checkUrl": "https://www.anime-planet.com/api/validation/username",
+      "knownAccounts": []
+    },
+    {
+      "name": "anonup",
+      "category": "uncategorized",
+      "checkUrl": "https://anonup.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Aparat",
+      "category": "uncategorized",
+      "url": "https://www.aparat.com/{account}",
+      "checkUrl": "https://www.aparat.com/api/fa/v1/user/user/information/username/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Apex Legends",
+      "category": "uncategorized",
+      "url": "https://apex.tracker.gg/apex/profile/origin/{account}/overview",
+      "checkUrl": "https://api.tracker.gg/api/v2/apex/standard/profile/origin/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Appian",
+      "category": "uncategorized",
+      "checkUrl": "https://community.appian.com/members/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Arch Linux GitLab",
+      "category": "uncategorized",
+      "url": "https://gitlab.archlinux.org/{account}",
+      "checkUrl": "https://gitlab.archlinux.org/api/v4/users?username={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Archive Of Our Own Account",
+      "category": "uncategorized",
+      "checkUrl": "https://archiveofourown.org/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "ArchWiki",
+      "category": "uncategorized",
+      "url": "https://wiki.archlinux.org/title/User:{account}",
+      "checkUrl": "https://wiki.archlinux.org/api.php?action=query&format=json&list=users&ususers={account}&usprop=cancreate&formatversion=2&errorformat=html&errorsuselocal=true&uselang=en",
+      "knownAccounts": []
+    },
+    {
+      "name": "Arduino",
+      "category": "uncategorized",
+      "checkUrl": "https://projecthub.arduino.cc/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "ArmorGames",
+      "category": "uncategorized",
+      "checkUrl": "https://armorgames.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "ArtBreeder",
+      "category": "uncategorized",
+      "checkUrl": "https://www.artbreeder.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Artists & Clients",
+      "category": "uncategorized",
+      "checkUrl": "https://artistsnclients.com/people/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "ArtStation",
+      "category": "uncategorized",
+      "checkUrl": "https://www.artstation.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "asciinema",
+      "category": "uncategorized",
+      "checkUrl": "https://asciinema.org/~{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "AtCoder",
+      "category": "uncategorized",
+      "checkUrl": "https://atcoder.jp/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "au.ru",
+      "category": "uncategorized",
+      "checkUrl": "https://au.ru/user/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Audiojungle",
+      "category": "uncategorized",
+      "checkUrl": "https://audiojungle.net/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Avid Community",
+      "category": "uncategorized",
+      "checkUrl": "https://community.avid.com/members/{account}/default.aspx",
+      "knownAccounts": []
+    },
+    {
+      "name": "babepedia",
+      "category": "uncategorized",
+      "checkUrl": "https://www.babepedia.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "BabyPips",
+      "category": "uncategorized",
+      "url": "https://forums.babypips.com/u/{account}/summary",
+      "checkUrl": "https://forums.babypips.com/u/{account}.json",
+      "knownAccounts": []
+    },
+    {
+      "name": "Bandcamp",
+      "category": "uncategorized",
+      "checkUrl": "https://bandcamp.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Bandlab",
+      "category": "uncategorized",
+      "url": "https://www.bandlab.com/{account}",
+      "checkUrl": "https://www.bandlab.com/api/v1.3/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "bblog_ru",
+      "category": "uncategorized",
+      "checkUrl": "https://www.babyblog.ru/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "BDSMLR",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.bdsmlr.com",
+      "knownAccounts": []
+    },
+    {
+      "name": "bdsmsingles",
+      "category": "uncategorized",
+      "checkUrl": "https://www.bdsmsingles.com/members/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Beacons",
+      "category": "uncategorized",
+      "checkUrl": "https://beacons.ai/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Bentbox",
+      "category": "uncategorized",
+      "checkUrl": "https://bentbox.co/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Bento",
+      "category": "uncategorized",
+      "checkUrl": "https://bento.me/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "BiggerPockets",
+      "category": "uncategorized",
+      "checkUrl": "https://www.biggerpockets.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "BIGO Live",
+      "category": "uncategorized",
+      "checkUrl": "https://www.bigo.tv/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Bikemap",
+      "category": "uncategorized",
+      "checkUrl": "https://www.bikemap.net/en/u/{account}/routes/created/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Bimpos",
+      "category": "uncategorized",
+      "checkUrl": "https://ask.bimpos.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Bio Sites",
+      "category": "uncategorized",
+      "checkUrl": "https://bio.site/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "biolink",
+      "category": "uncategorized",
+      "checkUrl": "https://bio.link/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Bitbucket",
+      "category": "uncategorized",
+      "url": "https://bitbucket.org/{account}/workspace/repositories/",
+      "checkUrl": "https://bitbucket.org/!api/2.0/repositories/{account}?page=1&pagelen=25&sort=-updated_on&q=&fields=-values.owner%2C-values.workspace",
+      "knownAccounts": []
+    },
+    {
+      "name": "Bitchute",
+      "category": "uncategorized",
+      "url": "https://www.bitchute.com/channel/{account}/",
+      "checkUrl": "https://api.bitchute.com/api/beta/channel",
+      "knownAccounts": []
+    },
+    {
+      "name": "Blogger",
+      "category": "uncategorized",
+      "checkUrl": "https://www.blogger.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "blogi.pl",
+      "category": "uncategorized",
+      "checkUrl": "https://www.blogi.pl/osoba,{account}.html",
+      "knownAccounts": []
+    },
+    {
+      "name": "Blogmarks",
+      "category": "uncategorized",
+      "checkUrl": "http://blogmarks.net/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Blogspot",
+      "category": "uncategorized",
+      "checkUrl": "http://{account}.blogspot.com",
+      "knownAccounts": []
+    },
+    {
+      "name": "Bluesky 1",
+      "category": "uncategorized",
+      "checkUrl": "https://bsky.app/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Bluesky 2",
+      "category": "uncategorized",
+      "url": "https://bsky.app/profile/{account}.bsky.social",
+      "checkUrl": "https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor={account}.bsky.social",
+      "knownAccounts": []
+    },
+    {
+      "name": "BoardGameGeek",
+      "category": "uncategorized",
+      "url": "https://boardgamegeek.com/user/{account}",
+      "checkUrl": "https://api.geekdo.com/api/accounts/validate/username?username={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "BodyBuilding.com",
+      "category": "uncategorized",
+      "url": "http://bodyspace.bodybuilding.com/{account}/",
+      "checkUrl": "http://api.bodybuilding.com/api-proxy/bbc/get?slug={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "bonga_cams",
+      "category": "uncategorized",
+      "checkUrl": "https://pt.bongacams.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Bookcrossing",
+      "category": "uncategorized",
+      "checkUrl": "https://www.bookcrossing.com/mybookshelf/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Booknode",
+      "category": "uncategorized",
+      "checkUrl": "https://booknode.com/profil/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "boosty",
+      "category": "uncategorized",
+      "checkUrl": "https://boosty.to/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Booth",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.booth.pm/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Brickset",
+      "category": "uncategorized",
+      "checkUrl": "https://brickset.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "BugCrowd",
+      "category": "uncategorized",
+      "url": "https://bugcrowd.com/{account}",
+      "checkUrl": "https://bugcrowd.com/{account}/profile_widgets",
+      "knownAccounts": []
+    },
+    {
+      "name": "Bunpro",
+      "category": "uncategorized",
+      "checkUrl": "https://community.bunpro.jp/u/{account}.json",
+      "knownAccounts": []
+    },
+    {
+      "name": "Buy Me a Coffee",
+      "category": "uncategorized",
+      "url": "https://buymeacoffee.com/{account}",
+      "checkUrl": "https://app.buymeacoffee.com/api/v1/check_availability",
+      "knownAccounts": []
+    },
+    {
+      "name": "BuzzFeed",
+      "category": "uncategorized",
+      "checkUrl": "https://www.buzzfeed.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "cafecito",
+      "category": "uncategorized",
+      "checkUrl": "https://cafecito.app/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Calendy",
+      "category": "uncategorized",
+      "checkUrl": "https://calendly.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Cameo",
+      "category": "uncategorized",
+      "checkUrl": "https://www.cameo.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Carbonmade",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.carbonmade.com/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Career.habr",
+      "category": "uncategorized",
+      "checkUrl": "https://career.habr.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "carrd.co",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.carrd.co",
+      "knownAccounts": []
+    },
+    {
+      "name": "CastingCallClub",
+      "category": "uncategorized",
+      "checkUrl": "https://www.castingcall.club/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "CD-Action",
+      "category": "uncategorized",
+      "checkUrl": "https://cdaction.pl/uzytkownicy/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "cda.pl",
+      "category": "uncategorized",
+      "checkUrl": "https://www.cda.pl/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Cent",
+      "category": "uncategorized",
+      "url": "https://beta.cent.co/{account}/",
+      "checkUrl": "https://beta.cent.co/data/user/profile?userHandles={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "cfx.re",
+      "category": "uncategorized",
+      "url": "https://forum.cfx.re/u/{account}/summary",
+      "checkUrl": "https://forum.cfx.re/u/{account}.json",
+      "knownAccounts": []
+    },
+    {
+      "name": "championat",
+      "category": "uncategorized",
+      "checkUrl": "https://www.championat.com/user/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Chamsko",
+      "category": "uncategorized",
+      "checkUrl": "https://www.chamsko.pl/profil/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "chatango.com",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.chatango.com",
+      "knownAccounts": []
+    },
+    {
+      "name": "chaturbate",
+      "category": "uncategorized",
+      "checkUrl": "https://chaturbate.com/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "cHEEZburger",
+      "category": "uncategorized",
+      "checkUrl": "https://profile.cheezburger.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Chess.com",
+      "category": "uncategorized",
+      "url": "https://www.chess.com/member/{account}",
+      "checkUrl": "https://api.chess.com/pub/player/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Chomikuj.pl",
+      "category": "uncategorized",
+      "checkUrl": "https://chomikuj.pl/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Chyoa",
+      "category": "uncategorized",
+      "checkUrl": "https://chyoa.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Cloudflare",
+      "category": "uncategorized",
+      "url": "https://community.cloudflare.com/u/{account}",
+      "checkUrl": "https://community.cloudflare.com/u/{account}/card.json",
+      "knownAccounts": []
+    },
+    {
+      "name": "Clubhouse",
+      "category": "uncategorized",
+      "checkUrl": "https://www.clubhouse.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "cnet",
+      "category": "uncategorized",
+      "checkUrl": "https://www.cnet.com/profiles/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Coda",
+      "category": "uncategorized",
+      "checkUrl": "https://coda.io/@{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Code Project",
+      "category": "uncategorized",
+      "checkUrl": "https://www.codeproject.com/Members/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Codeberg",
+      "category": "uncategorized",
+      "checkUrl": "https://codeberg.org/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Codecademy",
+      "category": "uncategorized",
+      "checkUrl": "https://discuss.codecademy.com/u/{account}/summary",
+      "knownAccounts": []
+    },
+    {
+      "name": "CodeChef",
+      "category": "uncategorized",
+      "checkUrl": "https://www.codechef.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Codeforces",
+      "category": "uncategorized",
+      "url": "https://codeforces.com/profile/{account}",
+      "checkUrl": "https://codeforces.com/api/user.info?handles={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "codementor",
+      "category": "uncategorized",
+      "checkUrl": "https://www.codementor.io/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Coderwall",
+      "category": "uncategorized",
+      "checkUrl": "https://coderwall.com/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Codewars",
+      "category": "uncategorized",
+      "checkUrl": "https://www.codewars.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "COLOURlovers",
+      "category": "uncategorized",
+      "checkUrl": "https://www.colourlovers.com/lover/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Community Adobe",
+      "category": "uncategorized",
+      "checkUrl": "https://community.adobe.com/t5/forums/searchpage/tab/user?q={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "contactos.sex",
+      "category": "uncategorized",
+      "checkUrl": "https://www.contactossex.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "coroflot",
+      "category": "uncategorized",
+      "checkUrl": "https://www.coroflot.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Coub",
+      "category": "uncategorized",
+      "url": "https://coub.com/{account}/",
+      "checkUrl": "https://coub.com/api/v2/channels/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Coub",
+      "category": "uncategorized",
+      "checkUrl": "https://coub.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "cowboys4angels",
+      "category": "uncategorized",
+      "checkUrl": "https://cowboys4angels.com/cowboy/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Cracked",
+      "category": "uncategorized",
+      "checkUrl": "https://www.cracked.com/members/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "cracked_io",
+      "category": "uncategorized",
+      "checkUrl": "https://cracked.io/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "crevado",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.crevado.com/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Crowdin",
+      "category": "uncategorized",
+      "checkUrl": "https://crowdin.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Cults3D",
+      "category": "uncategorized",
+      "checkUrl": "https://cults3d.com/en/users/{account}/creations",
+      "knownAccounts": []
+    },
+    {
+      "name": "Cytoid",
+      "category": "uncategorized",
+      "checkUrl": "https://cytoid.io/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Daily Kos",
+      "category": "uncategorized",
+      "checkUrl": "https://www.dailykos.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "darudar",
+      "category": "uncategorized",
+      "checkUrl": "https://darudar.org/users/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "dateinasia",
+      "category": "uncategorized",
+      "checkUrl": "https://www.dateinasia.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "datezone",
+      "category": "uncategorized",
+      "checkUrl": "https://www.datezone.com/users/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Dating.ru",
+      "category": "uncategorized",
+      "checkUrl": "https://dating.ru/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Demotywatory",
+      "category": "uncategorized",
+      "checkUrl": "https://demotywatory.pl/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "depop",
+      "category": "uncategorized",
+      "checkUrl": "https://www.depop.com/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Designspriation",
+      "category": "uncategorized",
+      "checkUrl": "https://www.designspiration.com/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "destream",
+      "category": "uncategorized",
+      "url": "https://destream.net/live/{account}",
+      "checkUrl": "https://api.destream.net/siteapi/v2/live/details/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Destructoid",
+      "category": "uncategorized",
+      "checkUrl": "https://www.destructoid.com/?name={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "dev.to",
+      "category": "uncategorized",
+      "checkUrl": "https://dev.to/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "DeviantArt",
+      "category": "uncategorized",
+      "checkUrl": "https://www.deviantart.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "devRant",
+      "category": "uncategorized",
+      "checkUrl": "https://devrant.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "dfgames",
+      "category": "uncategorized",
+      "checkUrl": "https://www.dfgames.com.br/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Diablo",
+      "category": "uncategorized",
+      "checkUrl": "https://diablo2.io/member/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "DIBIZ",
+      "category": "uncategorized",
+      "checkUrl": "https://www.dibiz.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Digitalspy",
+      "category": "uncategorized",
+      "checkUrl": "https://forums.digitalspy.com/profile/discussions/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "diigo",
+      "category": "uncategorized",
+      "url": "https://www.diigo.com/profile/{account}",
+      "checkUrl": "https://www.diigo.com/interact_api/load_profile_info?name={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Discogs",
+      "category": "uncategorized",
+      "url": "https://www.discogs.com/user/{account}",
+      "checkUrl": "https://api.discogs.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Discord Invites",
+      "category": "uncategorized",
+      "url": "https://discord.com/invite/{account}",
+      "checkUrl": "https://discord.com/api/v9/invites/{account}?with_counts=true&with_expiration=true",
+      "knownAccounts": []
+    },
+    {
+      "name": "Discord Users",
+      "category": "uncategorized",
+      "checkUrl": "https://discord.com/api/v9/unique-username/username-attempt-unauthed",
+      "knownAccounts": []
+    },
+    {
+      "name": "Discourse",
+      "category": "uncategorized",
+      "url": "https://meta.discourse.org/u/{account}",
+      "checkUrl": "https://meta.discourse.org/u/{account}/summary.json",
+      "knownAccounts": []
+    },
+    {
+      "name": "discuss.elastic.co",
+      "category": "uncategorized",
+      "checkUrl": "https://discuss.elastic.co/u/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Disqus",
+      "category": "uncategorized",
+      "url": "https://disqus.com/by/{account}/",
+      "checkUrl": "https://disqus.com/api/3.0/users/details?user=username:{account}&api_key=E8Uh5l5fHZ6gD8U3KycjAIAk46f68Zw7C6eW8WSjZvCLXebZ7p0r1yrYDrLilk2F",
+      "knownAccounts": []
+    },
+    {
+      "name": "Dissenter",
+      "category": "uncategorized",
+      "checkUrl": "https://dissenter.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Docker Hub Organizations",
+      "category": "uncategorized",
+      "url": "https://hub.docker.com/u/{account}",
+      "checkUrl": "https://hub.docker.com/v2/orgs/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Docker Hub Users",
+      "category": "uncategorized",
+      "url": "https://hub.docker.com/u/{account}",
+      "checkUrl": "https://hub.docker.com/v2/users/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Dojoverse",
+      "category": "uncategorized",
+      "checkUrl": "https://dojoverse.com/members/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "donate.stream",
+      "category": "uncategorized",
+      "url": "https://donate.stream/{account}",
+      "checkUrl": "https://donate.stream/api/v1/streamer.get?path={account}&app=9f4e793cec820015d511dbc77b20c5c1",
+      "knownAccounts": []
+    },
+    {
+      "name": "Donation Alerts",
+      "category": "uncategorized",
+      "url": "https://www.donationalerts.com/r/{account}",
+      "checkUrl": "https://www.donationalerts.com/api/v1/user/{account}/donationpagesettings",
+      "knownAccounts": []
+    },
+    {
+      "name": "Donatty",
+      "category": "uncategorized",
+      "url": "https://donatty.com/{account}",
+      "checkUrl": "https://api.donatty.com/users/find/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "dot.cards",
+      "category": "uncategorized",
+      "checkUrl": "https://dot.cards/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "DOTAFire",
+      "category": "uncategorized",
+      "checkUrl": "https://www.dotafire.com/ajax/searchSite?text={account}&search=members",
+      "knownAccounts": []
+    },
+    {
+      "name": "DOU",
+      "category": "uncategorized",
+      "checkUrl": "https://dou.ua/users/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Dribbble",
+      "category": "uncategorized",
+      "checkUrl": "https://dribbble.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Droners",
+      "category": "uncategorized",
+      "checkUrl": "https://droners.io/accounts/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Drum",
+      "category": "uncategorized",
+      "checkUrl": "https://drum.io/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Duolingo",
+      "category": "uncategorized",
+      "url": "https://www.duolingo.com/profile/{account}",
+      "checkUrl": "https://www.duolingo.com/2017-06-30/users?username={account}&_=1628308619574",
+      "knownAccounts": []
+    },
+    {
+      "name": "easyen",
+      "category": "uncategorized",
+      "checkUrl": "https://easyen.ru/index/8-0-{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "eBay",
+      "category": "uncategorized",
+      "checkUrl": "https://www.ebay.com/usr/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "ebay_stores",
+      "category": "uncategorized",
+      "checkUrl": "https://www.ebay.com/str/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Electrobel",
+      "category": "uncategorized",
+      "url": "https://be.electrobel.org/{account}",
+      "checkUrl": "https://be.electrobel.org/register.ajax",
+      "knownAccounts": []
+    },
+    {
+      "name": "Engadget",
+      "category": "uncategorized",
+      "checkUrl": "https://www.engadget.com/about/editors/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "EPORNER",
+      "category": "uncategorized",
+      "checkUrl": "https://www.eporner.com/profile/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Etsy",
+      "category": "uncategorized",
+      "checkUrl": "https://www.etsy.com/people/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Evolution CMS",
+      "category": "uncategorized",
+      "checkUrl": "https://community.evocms.ru/users/?search={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Expressional.social (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://expressional.social/@{account}",
+      "checkUrl": "https://expressional.social/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Eyeem",
+      "category": "uncategorized",
+      "checkUrl": "https://www.eyeem.com/u/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "F3",
+      "category": "uncategorized",
+      "checkUrl": "https://f3.cool/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Fabswingers",
+      "category": "uncategorized",
+      "checkUrl": "https://www.fabswingers.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "FACEIT",
+      "category": "uncategorized",
+      "url": "https://www.faceit.com/en/players/{account}",
+      "checkUrl": "https://www.faceit.com/api/users/v1/nicknames/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Faktopedia",
+      "category": "uncategorized",
+      "checkUrl": "https://faktopedia.pl/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "FanCentro",
+      "category": "uncategorized",
+      "url": "https://fancentro.com/{account}/",
+      "checkUrl": "https://fancentro.com/api/profile.get?profileAlias={account}&limit=1",
+      "knownAccounts": []
+    },
+    {
+      "name": "Fandom",
+      "category": "uncategorized",
+      "checkUrl": "https://www.fandom.com/u/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "fanpop",
+      "category": "uncategorized",
+      "checkUrl": "https://www.fanpop.com/fans/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "fansly",
+      "category": "uncategorized",
+      "url": "https://fansly.com/{account}/posts",
+      "checkUrl": "https://apiv2.fansly.com/api/v1/account?usernames={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Fark",
+      "category": "uncategorized",
+      "checkUrl": "https://www.fark.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "FatSecret",
+      "category": "uncategorized",
+      "checkUrl": "https://www.fatsecret.com/member/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Federated.press (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://federated.press/@{account}",
+      "checkUrl": "https://federated.press/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "figma",
+      "category": "uncategorized",
+      "checkUrl": "https://www.figma.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Filmot Channel Search",
+      "category": "uncategorized",
+      "checkUrl": "https://filmot.com/channelsearch/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Filmot Unlisted Videos",
+      "category": "uncategorized",
+      "checkUrl": "https://filmot.com/unlistedSearch?channelQuery={account}&sortField=uploaddate&sortOrder=desc&",
+      "knownAccounts": []
+    },
+    {
+      "name": "Filmweb",
+      "category": "uncategorized",
+      "checkUrl": "https://www.filmweb.pl/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "fine_art_america",
+      "category": "uncategorized",
+      "checkUrl": "https://fineartamerica.com/profiles/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Fiverr",
+      "category": "uncategorized",
+      "checkUrl": "https://www.fiverr.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "FL.ru",
+      "category": "uncategorized",
+      "checkUrl": "https://www.fl.ru/users/{account}/portfolio/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Flickr",
+      "category": "uncategorized",
+      "checkUrl": "https://www.flickr.com/photos/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Flipboard",
+      "category": "uncategorized",
+      "checkUrl": "https://flipboard.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "flowcode",
+      "category": "uncategorized",
+      "checkUrl": "https://www.flowcode.com/page/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Fodors Forum",
+      "category": "uncategorized",
+      "checkUrl": "https://www.fodors.com/community/profile/{account}/forum-activity",
+      "knownAccounts": []
+    },
+    {
+      "name": "Folkd",
+      "category": "uncategorized",
+      "url": "https://www.folkd.com/search/?q={account}&quick=1&type=core_members",
+      "checkUrl": "https://www.folkd.com/?app=core&module=system&controller=ajax&do=usernameExists&input={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Fortnite Tracker",
+      "category": "uncategorized",
+      "checkUrl": "https://fortnitetracker.com/profile/all/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "forumprawne.org",
+      "category": "uncategorized",
+      "checkUrl": "https://forumprawne.org/members/{account}.html",
+      "knownAccounts": []
+    },
+    {
+      "name": "Fosstodon.org (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://fosstodon.org/@{account}",
+      "checkUrl": "https://fosstodon.org/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "fotka",
+      "category": "uncategorized",
+      "url": "https://fotka.com/profil/{account}",
+      "checkUrl": "https://api.fotka.com/v2/user/dataStatic?login={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Fotolog Archived Profile",
+      "category": "uncategorized",
+      "url": "https://web.archive.org/web/2/fotolog.com/{account}",
+      "checkUrl": "https://archive.org/wayback/available?url=https://www.fotolog.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Foursquare",
+      "category": "uncategorized",
+      "checkUrl": "https://foursquare.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "freeCodeCamp",
+      "category": "uncategorized",
+      "url": "https://www.freecodecamp.org/{account}",
+      "checkUrl": "https://api.freecodecamp.org/api/users/get-public-profile?username={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Freelance.RU",
+      "category": "uncategorized",
+      "checkUrl": "https://freelance.ru/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Freelance.ua",
+      "category": "uncategorized",
+      "checkUrl": "https://freelance.ua/user/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Freelancehunt Employer",
+      "category": "uncategorized",
+      "checkUrl": "https://freelancehunt.com/en/employer/{account}.html",
+      "knownAccounts": []
+    },
+    {
+      "name": "Freelancehunt Freelancer",
+      "category": "uncategorized",
+      "checkUrl": "https://freelancehunt.com/en/freelancer/{account}.html",
+      "knownAccounts": []
+    },
+    {
+      "name": "Freelancer",
+      "category": "uncategorized",
+      "url": "https://www.freelancer.com/u/{account}",
+      "checkUrl": "https://www.freelancer.com/api/users/0.1/users?usernames%5B%5D={account}&compact=true",
+      "knownAccounts": []
+    },
+    {
+      "name": "freesound",
+      "category": "uncategorized",
+      "checkUrl": "https://freesound.org/people/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "FreeSteamKeys",
+      "category": "uncategorized",
+      "checkUrl": "https://www.freesteamkeys.com/members/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "FriendFinder",
+      "category": "uncategorized",
+      "checkUrl": "https://friendfinder.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "FriendFinder-X",
+      "category": "uncategorized",
+      "checkUrl": "https://www.friendfinder-x.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Fur Affinity",
+      "category": "uncategorized",
+      "checkUrl": "https://www.furaffinity.net/user/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Gab",
+      "category": "uncategorized",
+      "url": "https://gab.com/{account}",
+      "checkUrl": "https://gab.com/api/v1/account_by_username/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Game Jolt",
+      "category": "uncategorized",
+      "url": "https://gamejolt.com/@{account}",
+      "checkUrl": "https://gamejolt.com/site-api/web/profile/@{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "game_debate",
+      "category": "uncategorized",
+      "checkUrl": "https://www.game-debate.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Gamer DVR",
+      "category": "uncategorized",
+      "checkUrl": "https://gamerdvr.com/gamer/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Gamespot",
+      "category": "uncategorized",
+      "url": "https://www.gamespot.com/profile/{account}/",
+      "checkUrl": "https://www.gamespot.com/profile/{account}/summary/activity/?ajax",
+      "knownAccounts": []
+    },
+    {
+      "name": "Garmin connect",
+      "category": "uncategorized",
+      "checkUrl": "https://connect.garmin.com/modern/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "GDBrowser",
+      "category": "uncategorized",
+      "url": "https://gdbrowser.com/u/{account}",
+      "checkUrl": "https://gdbrowser.com/api/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "GeeksForGeeks",
+      "category": "uncategorized",
+      "url": "https://www.geeksforgeeks.org/user/{account}/",
+      "checkUrl": "https://authapi.geeksforgeeks.org/api-get/user-profile-info/?handle={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Geocaching",
+      "category": "uncategorized",
+      "checkUrl": "https://www.geocaching.com/p/?u={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "getmonero",
+      "category": "uncategorized",
+      "checkUrl": "https://forum.getmonero.org/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Gettr",
+      "category": "uncategorized",
+      "url": "https://gettr.com/user/{account}",
+      "checkUrl": "https://api.gettr.com/s/user/{account}/exist",
+      "knownAccounts": []
+    },
+    {
+      "name": "Gigapan",
+      "category": "uncategorized",
+      "checkUrl": "https://www.gigapan.com/profiles/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Giphy (Channel)",
+      "category": "uncategorized",
+      "checkUrl": "https://giphy.com/channel/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Gitea",
+      "category": "uncategorized",
+      "checkUrl": "https://gitea.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Gitee",
+      "category": "uncategorized",
+      "checkUrl": "https://gitee.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "giters",
+      "category": "uncategorized",
+      "checkUrl": "https://giters.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "GitHub",
+      "category": "uncategorized",
+      "url": "https://github.com/{account}",
+      "checkUrl": "https://api.github.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "GitHub Gists",
+      "category": "uncategorized",
+      "url": "https://gits.github.com/{account}",
+      "checkUrl": "https://api.github.com/users/{account}/gists",
+      "knownAccounts": []
+    },
+    {
+      "name": "GitLab",
+      "category": "uncategorized",
+      "url": "https://gitlab.com/{account}",
+      "checkUrl": "https://gitlab.com/users/{account}/exists",
+      "knownAccounts": []
+    },
+    {
+      "name": "gloria.tv",
+      "category": "uncategorized",
+      "checkUrl": "https://gloria.tv/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "GNOME GitLab",
+      "category": "uncategorized",
+      "url": "https://gitlab.gnome.org/{account}",
+      "checkUrl": "https://gitlab.gnome.org/api/v4/users?username={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "GNOME Shell Extensions",
+      "category": "uncategorized",
+      "checkUrl": "https://extensions.gnome.org/accounts/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "GOG",
+      "category": "uncategorized",
+      "checkUrl": "https://www.gog.com/u/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Goodgame_Russia",
+      "category": "uncategorized",
+      "checkUrl": "https://goodgame.ru/channel/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "gpodder.net",
+      "category": "uncategorized",
+      "checkUrl": "https://gpodder.net/user/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "grandprof",
+      "category": "uncategorized",
+      "checkUrl": "https://grandprof.org/communaute/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Graphics.social (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://graphics.social/@{account}",
+      "checkUrl": "https://graphics.social/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Gravatar",
+      "category": "uncategorized",
+      "url": "https://en.gravatar.com/{account}",
+      "checkUrl": "https://en.gravatar.com/{account}.json",
+      "knownAccounts": []
+    },
+    {
+      "name": "GTAinside.com",
+      "category": "uncategorized",
+      "checkUrl": "https://www.gtainside.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "gumroad",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.gumroad.com/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Habbo.com",
+      "category": "uncategorized",
+      "url": " https://www.habbo.com/profile/{account}",
+      "checkUrl": " https://www.habbo.com/api/public/users?name={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Habbo.com.br",
+      "category": "uncategorized",
+      "url": "https://www.habbo.com.br/profile/{account}",
+      "checkUrl": "https://www.habbo.com.br/api/public/users?name={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Habbo.com.tr",
+      "category": "uncategorized",
+      "url": "https://www.habbo.com.tr/profile/{account}",
+      "checkUrl": "https://www.habbo.com.tr/api/public/users?name={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Habbo.de",
+      "category": "uncategorized",
+      "url": "https://www.habbo.de/profile/{account}",
+      "checkUrl": "https://www.habbo.de/api/public/users?name={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Habbo.es",
+      "category": "uncategorized",
+      "url": " https://www.habbo.es/profile/{account}",
+      "checkUrl": " https://www.habbo.es/api/public/users?name={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Habbo.fi",
+      "category": "uncategorized",
+      "url": "https://www.habbo.fi/profile/{account}",
+      "checkUrl": "https://www.habbo.fi/api/public/users?name={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Habbo.fr",
+      "category": "uncategorized",
+      "url": "https://www.habbo.fr/profile/{account}",
+      "checkUrl": "https://www.habbo.fr/api/public/users?name={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Habbo.it",
+      "category": "uncategorized",
+      "url": "https://www.habbo.it/profile/{account}",
+      "checkUrl": "https://www.habbo.it/api/public/users?name={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Habbo.nl",
+      "category": "uncategorized",
+      "url": "https://www.habbo.nl/profile/{account}",
+      "checkUrl": "https://www.habbo.nl/api/public/users?name={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Habr",
+      "category": "uncategorized",
+      "checkUrl": "https://habr.com/ru/users/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Habr Employer",
+      "category": "uncategorized",
+      "checkUrl": "https://freelance.habr.com/freelancers/{account}/employer",
+      "knownAccounts": []
+    },
+    {
+      "name": "Habr Freelancer",
+      "category": "uncategorized",
+      "checkUrl": "https://freelance.habr.com/freelancers/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Habr Q&A",
+      "category": "uncategorized",
+      "checkUrl": "https://qna.habr.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Habtium",
+      "category": "uncategorized",
+      "checkUrl": "https://habtium.es/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Hackaday.io",
+      "category": "uncategorized",
+      "checkUrl": "https://hackaday.io/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Hacker News",
+      "category": "uncategorized",
+      "checkUrl": "https://news.ycombinator.com/user?id={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "hackerearth",
+      "category": "uncategorized",
+      "checkUrl": "https://www.hackerearth.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Hackernoon",
+      "category": "uncategorized",
+      "url": "https://hackernoon.com/u/{account}",
+      "checkUrl": "https://hackernoon.com/_next/data/foL6JC7ro2FEEMD-gMKgQ/u/{account}.json",
+      "knownAccounts": []
+    },
+    {
+      "name": "HackerOne",
+      "category": "uncategorized",
+      "url": "https://hackerone.com/{account}",
+      "checkUrl": "https://hackerone.com/graphql",
+      "knownAccounts": []
+    },
+    {
+      "name": "HackerRank",
+      "category": "uncategorized",
+      "url": "https://www.hackerrank.com/profile/{account}",
+      "checkUrl": "https://www.hackerrank.com/rest/contests/master/hackers/{account}/profile",
+      "knownAccounts": []
+    },
+    {
+      "name": "hackrocks",
+      "category": "uncategorized",
+      "url": "https://hackrocks.com/id/{account}",
+      "checkUrl": "https://hackrocks.com/api/users/profile",
+      "knownAccounts": []
+    },
+    {
+      "name": "Hackster",
+      "category": "uncategorized",
+      "checkUrl": "https://www.hackster.io/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "hamaha",
+      "category": "uncategorized",
+      "checkUrl": "https://hamaha.net/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Hanime",
+      "category": "uncategorized",
+      "checkUrl": "https://hanime.tv/channels/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Hcommons.social (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://hcommons.social/@{account}",
+      "checkUrl": "https://hcommons.social/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Heylink",
+      "category": "uncategorized",
+      "checkUrl": "https://heylink.me/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "hiberworld",
+      "category": "uncategorized",
+      "checkUrl": "https://hiberworld.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "HiHello",
+      "category": "uncategorized",
+      "checkUrl": "https://www.hihello.me/author/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Historians.social (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://historians.social/@{account}",
+      "checkUrl": "https://historians.social/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Holopin",
+      "category": "uncategorized",
+      "checkUrl": "https://holopin.io/@{account}#",
+      "knownAccounts": []
+    },
+    {
+      "name": "HomeDesign3D",
+      "category": "uncategorized",
+      "checkUrl": "https://en.homedesign3d.net/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Hometech.social (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://hometech.social/@{account}",
+      "checkUrl": "https://hometech.social/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "hoo.be",
+      "category": "uncategorized",
+      "checkUrl": "https://hoo.be/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Hostux.social (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://hostux.social/@{account}",
+      "checkUrl": "https://hostux.social/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Houzz",
+      "category": "uncategorized",
+      "checkUrl": "https://www.houzz.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "HubPages",
+      "category": "uncategorized",
+      "checkUrl": "https://hubpages.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Hubski",
+      "category": "uncategorized",
+      "checkUrl": "https://hubski.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "HudsonRock",
+      "category": "uncategorized",
+      "checkUrl": "https://cavalier.hudsonrock.com/api/json/v2/osint-tools/search-by-username?username={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "hugging_face",
+      "category": "uncategorized",
+      "checkUrl": "https://huggingface.co/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "HulkShare",
+      "category": "uncategorized",
+      "checkUrl": "https://www.hulkshare.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Iconfinder",
+      "category": "uncategorized",
+      "checkUrl": "https://www.iconfinder.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "icq-chat",
+      "category": "uncategorized",
+      "checkUrl": "https://icq.icqchat.co/members/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "IFTTT",
+      "category": "uncategorized",
+      "checkUrl": "https://ifttt.com/p/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "ifunny",
+      "category": "uncategorized",
+      "checkUrl": "https://ifunny.co/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "igromania",
+      "category": "uncategorized",
+      "checkUrl": "http://forum.igromania.ru/member.php?username={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "ilovegrowingmarijuana",
+      "category": "uncategorized",
+      "checkUrl": "https://support.ilovegrowingmarijuana.com/u/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "imagefap",
+      "category": "uncategorized",
+      "checkUrl": "https://www.imagefap.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "ImageShack",
+      "category": "uncategorized",
+      "checkUrl": "https://imageshack.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "iMGSRC.RU",
+      "category": "uncategorized",
+      "checkUrl": "https://imgsrc.ru/main/user.php?lang=ru&user={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "imgur",
+      "category": "uncategorized",
+      "url": "https://imgur.com/user/{account}/about",
+      "checkUrl": "https://api.imgur.com/account/v1/accounts/{account}?client_id=546c25a59c58ad7&include=trophies%2Cmedallions",
+      "knownAccounts": []
+    },
+    {
+      "name": "inaturalist",
+      "category": "uncategorized",
+      "checkUrl": "https://inaturalist.nz/people/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Independent academia",
+      "category": "uncategorized",
+      "checkUrl": "https://independent.academia.edu/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "InkBunny",
+      "category": "uncategorized",
+      "checkUrl": "https://inkbunny.net/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "InsaneJournal",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.insanejournal.com/profile",
+      "knownAccounts": []
+    },
+    {
+      "name": "Instructables",
+      "category": "uncategorized",
+      "url": "https://www.instructables.com/member/{account}/",
+      "checkUrl": "https://www.instructables.com/json-api/showAuthorExists?screenName={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Internet Archive User Search",
+      "category": "uncategorized",
+      "url": "https://archive.org/search.php?query={account}",
+      "checkUrl": "https://archive.org/advancedsearch.php?q={account}&output=json",
+      "knownAccounts": []
+    },
+    {
+      "name": "interpals",
+      "category": "uncategorized",
+      "checkUrl": "https://www.interpals.net/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Intigriti",
+      "category": "uncategorized",
+      "url": "https://app.intigriti.com/profile/{account}",
+      "checkUrl": "https://app.intigriti.com/api/user/public/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "isMyGirl",
+      "category": "uncategorized",
+      "url": "https://ismygirl.com/models/{account}",
+      "checkUrl": "https://ismygirl.com/api/model/getModel?slug={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Issuu",
+      "category": "uncategorized",
+      "url": "https://issuu.com/{account}",
+      "checkUrl": "https://issuu.com/call/signup/v2/check-username/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "itch.io",
+      "category": "uncategorized",
+      "checkUrl": "https://itch.io/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Japandict",
+      "category": "uncategorized",
+      "checkUrl": "https://forum.japandict.com/u/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "JBZD",
+      "category": "uncategorized",
+      "checkUrl": "https://jbzd.com.pl/uzytkownik/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "jeja.pl",
+      "category": "uncategorized",
+      "checkUrl": "https://www.jeja.pl/user,{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Jeuxvideo",
+      "category": "uncategorized",
+      "checkUrl": "https://www.jeuxvideo.com/profil/{account}?mode=infos",
+      "knownAccounts": []
+    },
+    {
+      "name": "Joe Monster",
+      "category": "uncategorized",
+      "checkUrl": "https://joemonster.org/bojownik/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "joinDOTA",
+      "category": "uncategorized",
+      "url": "https://www.joindota.com/search?m=edb_player&q={account}",
+      "checkUrl": "https://www.joindota.com/ajax/search",
+      "knownAccounts": []
+    },
+    {
+      "name": "JSFiddle",
+      "category": "uncategorized",
+      "checkUrl": "https://jsfiddle.net/user/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Justforfans",
+      "category": "uncategorized",
+      "checkUrl": "https://justfor.fans/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "kaggle",
+      "category": "uncategorized",
+      "checkUrl": "https://www.kaggle.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "kashipara",
+      "category": "uncategorized",
+      "url": "https://www.kashipara.com/profile/user/{account}",
+      "checkUrl": "https://www.kashipara.com/ajax/checkNewUser.php",
+      "knownAccounts": []
+    },
+    {
+      "name": "Keybase",
+      "category": "uncategorized",
+      "url": "https://keybase.io/{account}",
+      "checkUrl": "https://keybase.io/_/api/1.0/user/lookup.json?usernames={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Kick",
+      "category": "uncategorized",
+      "url": "https://kick.com/{account}",
+      "checkUrl": "https://kick.com/api/v2/channels/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Kickstarter",
+      "category": "uncategorized",
+      "checkUrl": "https://www.kickstarter.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "kik",
+      "category": "uncategorized",
+      "checkUrl": "https://kik.me/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "kipin",
+      "category": "uncategorized",
+      "checkUrl": "https://kipin.app/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "KnowYourMeme",
+      "category": "uncategorized",
+      "checkUrl": "https://knowyourmeme.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Ko-Fi",
+      "category": "uncategorized",
+      "checkUrl": "https://ko-fi.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "komi",
+      "category": "uncategorized",
+      "url": "https://{account}.komi.io",
+      "checkUrl": "https://api.komi.io/api/talent/usernames/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Kongregate",
+      "category": "uncategorized",
+      "checkUrl": "https://www.kongregate.com/accounts/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Kotburger",
+      "category": "uncategorized",
+      "checkUrl": "https://kotburger.pl/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Kwai",
+      "category": "uncategorized",
+      "checkUrl": "https://www.kwai.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "kwejk.pl",
+      "category": "uncategorized",
+      "checkUrl": "https://kwejk.pl/uzytkownik/{account}#/tablica/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Kwork",
+      "category": "uncategorized",
+      "url": "https://kwork.ru/user/{account}",
+      "checkUrl": "https://kwork.ru/user_kworks/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Last.fm",
+      "category": "uncategorized",
+      "checkUrl": "https://www.last.fm/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "LeakIX",
+      "category": "uncategorized",
+      "checkUrl": "https://leakix.net/u/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "LeetCode",
+      "category": "uncategorized",
+      "url": "https://leetcode.com/u/{account}/",
+      "checkUrl": "https://leetcode.com/graphql/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Lemon8",
+      "category": "uncategorized",
+      "checkUrl": "https://www.lemon8-app.com/{account}?region=us",
+      "knownAccounts": []
+    },
+    {
+      "name": "Letterboxd",
+      "category": "uncategorized",
+      "checkUrl": "https://letterboxd.com/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "LevelBlue",
+      "category": "uncategorized",
+      "url": "https://otx.alienvault.com/user/{account}/pulses",
+      "checkUrl": "https://otx.alienvault.com/otxapi/auth/validate?username={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Liberapay",
+      "category": "uncategorized",
+      "checkUrl": "https://liberapay.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "LibraryThing",
+      "category": "uncategorized",
+      "checkUrl": "https://www.librarything.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Libretooth.gr (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://libretooth.gr/@{account}",
+      "checkUrl": "https://libretooth.gr/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "lichess.org",
+      "category": "uncategorized",
+      "url": "https://lichess.org/@/{account}",
+      "checkUrl": "https://lichess.org/api/player/autocomplete?term={account}&exists=1",
+      "knownAccounts": []
+    },
+    {
+      "name": "LINE",
+      "category": "uncategorized",
+      "checkUrl": "https://line.me/R/ti/p/@{account}?from=page",
+      "knownAccounts": []
+    },
+    {
+      "name": "Linktree",
+      "category": "uncategorized",
+      "checkUrl": "https://linktr.ee/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "linux.org.ru",
+      "category": "uncategorized",
+      "checkUrl": "https://www.linux.org.ru/people/{account}/profile",
+      "knownAccounts": []
+    },
+    {
+      "name": "Livejournal",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.livejournal.com",
+      "knownAccounts": []
+    },
+    {
+      "name": "livemaster.ru",
+      "category": "uncategorized",
+      "checkUrl": "https://www.livemaster.ru/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "lobste.rs",
+      "category": "uncategorized",
+      "checkUrl": "https://lobste.rs/u/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "LoLProfile",
+      "category": "uncategorized",
+      "checkUrl": "https://lolprofile.net/search/world/{account}-world",
+      "knownAccounts": []
+    },
+    {
+      "name": "Lor.sh (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://lor.sh/@{account}",
+      "checkUrl": "https://lor.sh/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "lowcygier.pl",
+      "category": "uncategorized",
+      "checkUrl": "https://bazar.lowcygier.pl/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "MAGABOOK",
+      "category": "uncategorized",
+      "checkUrl": "https://magabook.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Magix",
+      "category": "uncategorized",
+      "checkUrl": "https://www.magix.info/us/users/profile/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Malpedia Actors",
+      "category": "uncategorized",
+      "checkUrl": "https://malpedia.caad.fkie.fraunhofer.de/actor/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "MapMyTracks",
+      "category": "uncategorized",
+      "checkUrl": "https://www.mapmytracks.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mapstodon.space (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://mapstodon.space/@{account}",
+      "checkUrl": "https://mapstodon.space/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Maroc_nl",
+      "category": "uncategorized",
+      "checkUrl": "https://www.maroc.nl/forums/members/{account}.html",
+      "knownAccounts": []
+    },
+    {
+      "name": "Marshmallow",
+      "category": "uncategorized",
+      "checkUrl": "https://marshmallow-qa.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Martech",
+      "category": "uncategorized",
+      "checkUrl": "https://martech.org/author/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Massage Anywhere",
+      "category": "uncategorized",
+      "checkUrl": "https://www.massageanywhere.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "masto.ai",
+      "category": "uncategorized",
+      "checkUrl": "https://masto.ai/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Masto.nyc (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://masto.nyc/@{account}",
+      "checkUrl": "https://masto.nyc/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mastodon API",
+      "category": "uncategorized",
+      "url": "https://mastodon.social/api/v2/search?q={account}&type=accounts",
+      "checkUrl": "https://mastodon.social/api/v2/search?q={account}&limit=1&type=accounts",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mastodon-101010.pl",
+      "category": "uncategorized",
+      "checkUrl": "https://101010.pl/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mastodon-C.IM",
+      "category": "uncategorized",
+      "checkUrl": "https://c.im/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mastodon-Chaos.social",
+      "category": "uncategorized",
+      "checkUrl": "https://chaos.social/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mastodon-climatejustice.rocks",
+      "category": "uncategorized",
+      "url": "https://climatejustice.rocks/@{account}",
+      "checkUrl": "https://climatejustice.rocks/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mastodon-Defcon",
+      "category": "uncategorized",
+      "checkUrl": "https://defcon.social/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mastodon-mastodon",
+      "category": "uncategorized",
+      "checkUrl": "https://mastodon.social/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mastodon-meow.social",
+      "category": "uncategorized",
+      "checkUrl": "https://meow.social/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mastodon-mstdn.io",
+      "category": "uncategorized",
+      "checkUrl": "https://mstdn.io/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mastodon-pol.social",
+      "category": "uncategorized",
+      "checkUrl": "https://pol.social/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mastodon-rigcz.club",
+      "category": "uncategorized",
+      "checkUrl": "https://rigcz.club/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mastodon-social_tchncs",
+      "category": "uncategorized",
+      "checkUrl": "https://social.tchncs.de/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mastodon-Toot.Community",
+      "category": "uncategorized",
+      "checkUrl": "https://toot.community/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mastodon.online",
+      "category": "uncategorized",
+      "checkUrl": "https://mastodon.online/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mastodonbooks.net (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://mastodonbooks.net/@{account}",
+      "checkUrl": "https://mastodonbooks.net/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "MCName (Minecraft)",
+      "category": "uncategorized",
+      "checkUrl": "https://mcname.info/en/search?q={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "MCUUID (Minecraft)",
+      "category": "uncategorized",
+      "url": "https://mcuuid.net/?q={account}",
+      "checkUrl": "https://playerdb.co/api/player/minecraft/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Medium",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.medium.com/about",
+      "knownAccounts": []
+    },
+    {
+      "name": "medyczka.pl",
+      "category": "uncategorized",
+      "checkUrl": "http://medyczka.pl/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "meet me",
+      "category": "uncategorized",
+      "checkUrl": "https://www.meetme.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "message_me",
+      "category": "uncategorized",
+      "checkUrl": "https://mssg.me/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "metacritic",
+      "category": "uncategorized",
+      "checkUrl": "https://www.metacritic.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Minds",
+      "category": "uncategorized",
+      "url": "https://www.minds.com/{account}/",
+      "checkUrl": "https://www.minds.com/api/v3/register/validate?username={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Minecraft List",
+      "category": "uncategorized",
+      "checkUrl": "https://minecraftlist.com/players/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "mintme",
+      "category": "uncategorized",
+      "checkUrl": "https://www.mintme.com/token/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mistrzowie",
+      "category": "uncategorized",
+      "checkUrl": "https://mistrzowie.org/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mix",
+      "category": "uncategorized",
+      "checkUrl": "https://mix.com/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mixcloud",
+      "category": "uncategorized",
+      "url": "https://www.mixcloud.com/{account}/",
+      "checkUrl": "https://api.mixcloud.com/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mixi",
+      "category": "uncategorized",
+      "checkUrl": "https://mixi.jp/view_community.pl?id={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mixlr",
+      "category": "uncategorized",
+      "url": "https://mixlr.com/{account}/",
+      "checkUrl": "https://api.mixlr.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mmorpg",
+      "category": "uncategorized",
+      "checkUrl": "https://forums.mmorpg.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "MobileGTA.net",
+      "category": "uncategorized",
+      "checkUrl": "https://www.mobilegta.net/en/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Mod DB",
+      "category": "uncategorized",
+      "checkUrl": "https://www.moddb.com/members/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "MODX.im",
+      "category": "uncategorized",
+      "checkUrl": "https://modx.evo.im/profile/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Monkeytype",
+      "category": "uncategorized",
+      "url": "https://monkeytype.com/profile/{account}",
+      "checkUrl": "https://api.monkeytype.com/users/{account}/profile",
+      "knownAccounts": []
+    },
+    {
+      "name": "Moto Trip",
+      "category": "uncategorized",
+      "checkUrl": "https://moto-trip.com/profil/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Motokiller",
+      "category": "uncategorized",
+      "checkUrl": "https://mklr.pl/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "moxfield",
+      "category": "uncategorized",
+      "checkUrl": "https://www.moxfield.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Muck Rack",
+      "category": "uncategorized",
+      "checkUrl": "https://muckrack.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Musician.social (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://musician.social/@{account}",
+      "checkUrl": "https://musician.social/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "musictraveler",
+      "category": "uncategorized",
+      "checkUrl": "https://www.musictraveler.com/en/users/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "MUYZORRAS",
+      "category": "uncategorized",
+      "checkUrl": "https://www.muyzorras.com/usuarios/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "my_instants",
+      "category": "uncategorized",
+      "checkUrl": "https://www.myinstants.com/en/profile/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "MyAnimeList",
+      "category": "uncategorized",
+      "checkUrl": "https://myanimelist.net/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "MyBuilder.com",
+      "category": "uncategorized",
+      "checkUrl": "https://www.mybuilder.com/profile/view/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "MyFitnessPal Author",
+      "category": "uncategorized",
+      "checkUrl": "https://blog.myfitnesspal.com/author/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "MyFitnessPal Community",
+      "category": "uncategorized",
+      "checkUrl": "https://community.myfitnesspal.com/en/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "MyLot",
+      "category": "uncategorized",
+      "checkUrl": "https://www.mylot.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "MYM",
+      "category": "uncategorized",
+      "checkUrl": "https://mym.fans/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "MyNickname",
+      "category": "uncategorized",
+      "checkUrl": "https://mynickname.com/en/search?q={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "myportfolio",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.myportfolio.com/work",
+      "knownAccounts": []
+    },
+    {
+      "name": "MySpace",
+      "category": "uncategorized",
+      "checkUrl": "https://myspace.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Myspreadshop",
+      "category": "uncategorized",
+      "url": "https://{account}.myspreadshop.com",
+      "checkUrl": "https://myspreadshop.de/{account}/shopData/list",
+      "knownAccounts": []
+    },
+    {
+      "name": "myWishBoard",
+      "category": "uncategorized",
+      "checkUrl": "https://mywishboard.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "naija_planet",
+      "category": "uncategorized",
+      "checkUrl": "https://naijaplanet.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "nairaland",
+      "category": "uncategorized",
+      "checkUrl": "https://www.nairaland.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "NaturalNews",
+      "category": "uncategorized",
+      "checkUrl": "https://naturalnews.com/author/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Naver",
+      "category": "uncategorized",
+      "checkUrl": "https://blog.naver.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Neocities",
+      "category": "uncategorized",
+      "checkUrl": "https://neocities.org/site/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "netvibes",
+      "category": "uncategorized",
+      "checkUrl": "https://www.netvibes.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Newgrounds",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.newgrounds.com/",
+      "knownAccounts": []
+    },
+    {
+      "name": "newmeet",
+      "category": "uncategorized",
+      "checkUrl": "https://www.newmeet.com/en/profile/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Nightbot",
+      "category": "uncategorized",
+      "url": "https://nightbot.tv/t/{account}/commands",
+      "checkUrl": "https://api.nightbot.tv/1/channels/t/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "nihbuatjajan",
+      "category": "uncategorized",
+      "checkUrl": "https://www.nihbuatjajan.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Nitecrew (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://nitecrew.rip/@{account}",
+      "checkUrl": "https://nitecrew.rip/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "nnru",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.www.nn.ru",
+      "knownAccounts": []
+    },
+    {
+      "name": "NotABug",
+      "category": "uncategorized",
+      "checkUrl": "https://notabug.org/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Note",
+      "category": "uncategorized",
+      "checkUrl": "https://note.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "npm",
+      "category": "uncategorized",
+      "checkUrl": "https://www.npmjs.com/~{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "oglaszamy24h.pl",
+      "category": "uncategorized",
+      "checkUrl": "https://oglaszamy24h.pl/profil,{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "ok.ru",
+      "category": "uncategorized",
+      "checkUrl": "https://ok.ru/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "okidoki",
+      "category": "uncategorized",
+      "checkUrl": "https://m.okidoki.ee/ru/users/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "omg.lol",
+      "category": "uncategorized",
+      "url": "https://{account}.omg.lol",
+      "checkUrl": "https://api.omg.lol/address/{account}/info",
+      "knownAccounts": []
+    },
+    {
+      "name": "OnlySearch (OnlyFans)",
+      "category": "uncategorized",
+      "url": "https://onlysearch.co/profiles?keyword={account}",
+      "checkUrl": "https://onlysearch.co/api/search?keyword={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Opencollective",
+      "category": "uncategorized",
+      "checkUrl": "https://opencollective.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "opensource",
+      "category": "uncategorized",
+      "checkUrl": "https://opensource.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "OpenStreetMap",
+      "category": "uncategorized",
+      "checkUrl": "https://www.openstreetmap.org/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "OPGG",
+      "category": "uncategorized",
+      "checkUrl": "https://eune.op.gg/summoners/eune/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Orbys",
+      "category": "uncategorized",
+      "checkUrl": "https://orbys.net/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Origins.Habbo.com",
+      "category": "uncategorized",
+      "checkUrl": "https://origins.habbo.com/api/public/users?name={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Origins.Habbo.com.br",
+      "category": "uncategorized",
+      "checkUrl": "https://origins.habbo.com.br/api/public/users?name={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Origins.Habbo.es",
+      "category": "uncategorized",
+      "checkUrl": "https://origins.habbo.es/api/public/users?name={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "osu!",
+      "category": "uncategorized",
+      "checkUrl": "https://osu.ppy.sh/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Our Freedom Book",
+      "category": "uncategorized",
+      "checkUrl": "https://www.ourfreedombook.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "ow.ly",
+      "category": "uncategorized",
+      "checkUrl": "http://ow.ly/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "palnet",
+      "category": "uncategorized",
+      "checkUrl": "https://www.palnet.io/@{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Parler",
+      "category": "uncategorized",
+      "checkUrl": "https://parler.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Parler archived posts",
+      "category": "uncategorized",
+      "url": "https://web.archive.org/web/2/https://parler.com/profile/{account}/posts",
+      "checkUrl": "http://archive.org/wayback/available?url=https://parler.com/profile/{account}/posts",
+      "knownAccounts": []
+    },
+    {
+      "name": "Parler archived profile",
+      "category": "uncategorized",
+      "url": "https://web.archive.org/web/2/https://parler.com/profile/{account}",
+      "checkUrl": "http://archive.org/wayback/available?url=https://parler.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Pastebin",
+      "category": "uncategorized",
+      "checkUrl": "https://pastebin.com/u/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "patch",
+      "category": "uncategorized",
+      "checkUrl": "https://patch.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "PatientsLikeMe",
+      "category": "uncategorized",
+      "checkUrl": "https://www.patientslikeme.com/members/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Patreon",
+      "category": "uncategorized",
+      "checkUrl": "https://www.patreon.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Patriots Win",
+      "category": "uncategorized",
+      "checkUrl": "https://patriots.win/u/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Patronite",
+      "category": "uncategorized",
+      "checkUrl": "https://patronite.pl/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Paypal",
+      "category": "uncategorized",
+      "checkUrl": "https://www.paypal.com/paypalme/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "PCGamer",
+      "category": "uncategorized",
+      "checkUrl": "https://forums.pcgamer.com/members/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "PCPartPicker",
+      "category": "uncategorized",
+      "checkUrl": "https://pcpartpicker.com/user/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Periscope",
+      "category": "uncategorized",
+      "checkUrl": "https://www.periscope.tv/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Pewex",
+      "category": "uncategorized",
+      "checkUrl": "https://retro.pewex.pl/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Picsart",
+      "category": "uncategorized",
+      "checkUrl": "https://picsart.com/u/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Piekielni",
+      "category": "uncategorized",
+      "checkUrl": "https://piekielni.pl/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "pikabu",
+      "category": "uncategorized",
+      "checkUrl": "https://pikabu.ru/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Pillowfort",
+      "category": "uncategorized",
+      "checkUrl": "https://www.pillowfort.social/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "PinkBike",
+      "category": "uncategorized",
+      "checkUrl": "https://www.pinkbike.com/u/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Pinterest",
+      "category": "uncategorized",
+      "checkUrl": "https://www.pinterest.com/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "pixelfed.social",
+      "category": "uncategorized",
+      "checkUrl": "https://pixelfed.social/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Playstation Network",
+      "category": "uncategorized",
+      "url": "https://psnprofiles.com/{account}",
+      "checkUrl": "https://psnprofiles.com/xhr/search/users?q={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Plink",
+      "category": "uncategorized",
+      "checkUrl": "https://plink.gg/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Plurk",
+      "category": "uncategorized",
+      "checkUrl": "https://www.plurk.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Poe.com",
+      "category": "uncategorized",
+      "checkUrl": "https://poe.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Pokec",
+      "category": "uncategorized",
+      "checkUrl": "https://pokec.azet.sk/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "pokemonshowdown",
+      "category": "uncategorized",
+      "checkUrl": "https://pokemonshowdown.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Pokerstrategy",
+      "category": "uncategorized",
+      "checkUrl": "http://www.pokerstrategy.net/user/{account}/profile/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Polarsteps",
+      "category": "uncategorized",
+      "url": "https://www.polarsteps.com/{account}",
+      "checkUrl": "https://api.polarsteps.com/users/byusername/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Polchat.pl",
+      "category": "uncategorized",
+      "checkUrl": "https://polczat.pl/forum/profile/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "policja2009",
+      "category": "uncategorized",
+      "checkUrl": "http://www.policja2009.fora.pl/search.php?search_author={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Poll Everywhere",
+      "category": "uncategorized",
+      "url": "https://pollev.com/{account}",
+      "checkUrl": "https://pollev.com/proxy/api/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "polygon",
+      "category": "uncategorized",
+      "checkUrl": "https://www.polygon.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "popl",
+      "category": "uncategorized",
+      "checkUrl": "https://poplme.co/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Pornhub Porn Stars",
+      "category": "uncategorized",
+      "checkUrl": "https://www.pornhub.com/pornstar/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Pornhub Users",
+      "category": "uncategorized",
+      "checkUrl": "https://www.pornhub.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Poshmark",
+      "category": "uncategorized",
+      "checkUrl": "https://poshmark.com/closet/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "postcrossing",
+      "category": "uncategorized",
+      "checkUrl": "https://www.postcrossing.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Poweredbygay.social (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://poweredbygay.social/@{account}",
+      "checkUrl": "https://poweredbygay.social/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Pr0gramm",
+      "category": "uncategorized",
+      "url": "https://pr0gramm.com/user/{account}",
+      "checkUrl": "https://pr0gramm.com/api/profile/info?name={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Pravda.me",
+      "category": "uncategorized",
+      "checkUrl": "https://pravda.me/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Privacy Guides",
+      "category": "uncategorized",
+      "url": "https://discuss.privacyguides.net/u/{account}/summary",
+      "checkUrl": "https://discuss.privacyguides.net/u/{account}.json",
+      "knownAccounts": []
+    },
+    {
+      "name": "Producthunt",
+      "category": "uncategorized",
+      "checkUrl": "https://www.producthunt.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "PromoDJ",
+      "category": "uncategorized",
+      "url": "https://promodj.com/{account}",
+      "checkUrl": "https://promodj.com/ajax/register.html?lang=en",
+      "knownAccounts": []
+    },
+    {
+      "name": "Pronouns.Page",
+      "category": "uncategorized",
+      "url": "https://pronouns.page/@{account}",
+      "checkUrl": "https://pronouns.page/api/profile/get/{account}?version=2",
+      "knownAccounts": []
+    },
+    {
+      "name": "Pronouny",
+      "category": "uncategorized",
+      "url": "https://pronouny.xyz/users/{account}",
+      "checkUrl": "https://pronouny.xyz/api/users/profile/username/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Prose",
+      "category": "uncategorized",
+      "checkUrl": "https://prose.astral.camp/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "prv.pl",
+      "category": "uncategorized",
+      "checkUrl": "https://www.prv.pl/osoba/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Public.com",
+      "category": "uncategorized",
+      "checkUrl": "https://public.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "pypi",
+      "category": "uncategorized",
+      "checkUrl": "https://pypi.org/user/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "QUEER PL",
+      "category": "uncategorized",
+      "checkUrl": "https://queer.pl/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "quitter.pl",
+      "category": "uncategorized",
+      "url": "https://quitter.pl/users/{account}",
+      "checkUrl": "https://quitter.pl/api/v1/accounts/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Quizlet",
+      "category": "uncategorized",
+      "url": "https://quizlet.com/user/{account}/sets",
+      "checkUrl": "https://quizlet.com/webapi/3.2/users/check-username?username={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Quora",
+      "category": "uncategorized",
+      "checkUrl": "https://www.quora.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Raddle.me",
+      "category": "uncategorized",
+      "checkUrl": "https://raddle.me/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "RaidForums - Archive",
+      "category": "uncategorized",
+      "checkUrl": "https://rf-archive.com/users.php?s_tag={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Rant.li",
+      "category": "uncategorized",
+      "checkUrl": "https://rant.li/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Rarible",
+      "category": "uncategorized",
+      "url": "https://rarible.com/{account}",
+      "checkUrl": "https://rarible.com/marketplace/api/v4/urls/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "RblxTrade",
+      "category": "uncategorized",
+      "url": "https://rblx.trade/p/{account}",
+      "checkUrl": "https://rblx.trade/api/v1/user/get-by-username?username={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "redbubble",
+      "category": "uncategorized",
+      "checkUrl": "https://www.redbubble.com/people/{account}/shop",
+      "knownAccounts": []
+    },
+    {
+      "name": "Reddit",
+      "category": "uncategorized",
+      "url": "https://www.reddit.com/user/{account}",
+      "checkUrl": "https://www.reddit.com/user/{account}/about/.json",
+      "knownAccounts": []
+    },
+    {
+      "name": "REDGIFS",
+      "category": "uncategorized",
+      "url": "https://www.redgifs.com/users/{account}",
+      "checkUrl": "https://api.redgifs.com/v1/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Refsheet",
+      "category": "uncategorized",
+      "checkUrl": "https://refsheet.net/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Replit",
+      "category": "uncategorized",
+      "checkUrl": "https://replit.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Researchgate",
+      "category": "uncategorized",
+      "checkUrl": "https://www.researchgate.net/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "resumes_actorsaccess",
+      "category": "uncategorized",
+      "checkUrl": "https://resumes.actorsaccess.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Revolut",
+      "category": "uncategorized",
+      "url": "https://revolut.me/{account}",
+      "checkUrl": "https://revolut.me/api/web-profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "risk.ru",
+      "category": "uncategorized",
+      "checkUrl": "https://risk.ru/people/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Roblox",
+      "category": "uncategorized",
+      "url": "https://www.roblox.com/search/users?keyword={account}",
+      "checkUrl": "https://auth.roblox.com/v1/usernames/validate?username={account}&birthday=2019-12-31T23:00:00.000Z",
+      "knownAccounts": []
+    },
+    {
+      "name": "RoutineHub",
+      "category": "uncategorized",
+      "checkUrl": "https://routinehub.co/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "rsi",
+      "category": "uncategorized",
+      "checkUrl": "https://robertsspaceindustries.com/citizens/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "ru_123rf",
+      "category": "uncategorized",
+      "checkUrl": "https://ru.123rf.com/profile_{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "RumbleChannel",
+      "category": "uncategorized",
+      "checkUrl": "https://rumble.com/c/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "RumbleUser",
+      "category": "uncategorized",
+      "checkUrl": "https://rumble.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "RuneScape",
+      "category": "uncategorized",
+      "url": "https://apps.runescape.com/runemetrics/app/overview/player/{account}",
+      "checkUrl": "https://apps.runescape.com/runemetrics/profile/profile?user={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "RuTracker.org",
+      "category": "uncategorized",
+      "checkUrl": "https://rutracker.org/forum/profile.php?mode=viewprofile&u={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Salon24",
+      "category": "uncategorized",
+      "checkUrl": "https://www.salon24.pl/u/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Scammer.info",
+      "category": "uncategorized",
+      "url": "https://scammer.info/u/{account}",
+      "checkUrl": "https://scammer.info/u/{account}.json",
+      "knownAccounts": []
+    },
+    {
+      "name": "ScoutWiki",
+      "category": "uncategorized",
+      "checkUrl": "https://en.scoutwiki.org/User:{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "scratch",
+      "category": "uncategorized",
+      "checkUrl": "https://scratch.mit.edu/users/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "secure_donation",
+      "category": "uncategorized",
+      "checkUrl": "https://secure.donationpay.org/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "sedisp@ce",
+      "category": "uncategorized",
+      "checkUrl": "https://sedispace.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Seneporno",
+      "category": "uncategorized",
+      "checkUrl": "https://seneporno.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "sentimente",
+      "category": "uncategorized",
+      "checkUrl": "https://www.sentimente.com/amp/{account}.html",
+      "knownAccounts": []
+    },
+    {
+      "name": "SEOClerks",
+      "category": "uncategorized",
+      "checkUrl": "https://www.seoclerks.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "setlist.fm",
+      "category": "uncategorized",
+      "checkUrl": "https://www.setlist.fm/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Sexworker",
+      "category": "uncategorized",
+      "url": "https://sexworker.com/{account}",
+      "checkUrl": "https://sexworker.com/api/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "SFD",
+      "category": "uncategorized",
+      "checkUrl": "https://www.sfd.pl/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Shesfreaky",
+      "category": "uncategorized",
+      "checkUrl": "https://www.shesfreaky.com/profile/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "shopify",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.myshopify.com",
+      "knownAccounts": []
+    },
+    {
+      "name": "Showup.tv",
+      "category": "uncategorized",
+      "checkUrl": "https://showup.tv/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "shutterstock",
+      "category": "uncategorized",
+      "checkUrl": "https://www.shutterstock.com/g/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "SimplePlanes",
+      "category": "uncategorized",
+      "checkUrl": "https://www.simpleplanes.com/u/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "skeb",
+      "category": "uncategorized",
+      "checkUrl": "https://skeb.jp/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "SlackHoles",
+      "category": "uncategorized",
+      "checkUrl": "https://slackholes.com/actor/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "slant",
+      "category": "uncategorized",
+      "checkUrl": "https://www.slant.co/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "slides",
+      "category": "uncategorized",
+      "checkUrl": "https://slides.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Slideshare",
+      "category": "uncategorized",
+      "checkUrl": "https://www.slideshare.net/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "SmashRun",
+      "category": "uncategorized",
+      "checkUrl": "https://smashrun.com/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "smelsy",
+      "category": "uncategorized",
+      "checkUrl": "https://www.smelsy.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "SmugMug",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.smugmug.com",
+      "knownAccounts": []
+    },
+    {
+      "name": "smule",
+      "category": "uncategorized",
+      "url": "https://www.smule.com/{account}",
+      "checkUrl": "https://www.smule.com/api/profile/?handle={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Snapchat",
+      "category": "uncategorized",
+      "checkUrl": "https://www.snapchat.com/add/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Snipfeed",
+      "category": "uncategorized",
+      "checkUrl": "https://snipfeed.co/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "soc.citizen4.eu",
+      "category": "uncategorized",
+      "checkUrl": "https://soc.citizen4.eu/profile/{account}/profile",
+      "knownAccounts": []
+    },
+    {
+      "name": "social.bund.de",
+      "category": "uncategorized",
+      "checkUrl": "https://social.bund.de/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "social_msdn",
+      "category": "uncategorized",
+      "checkUrl": "https://social.msdn.microsoft.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "sofurry",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.sofurry.com",
+      "knownAccounts": []
+    },
+    {
+      "name": "solo.to",
+      "category": "uncategorized",
+      "checkUrl": "https://solo.to/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "SoundCloud",
+      "category": "uncategorized",
+      "checkUrl": "https://soundcloud.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Soup",
+      "category": "uncategorized",
+      "checkUrl": "https://www.soup.io/author/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Sourceforge",
+      "category": "uncategorized",
+      "url": "https://sourceforge.net/u/{account}/profile",
+      "checkUrl": "https://sourceforge.net/user/username/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Speaker Deck",
+      "category": "uncategorized",
+      "checkUrl": "https://speakerdeck.com/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "speedrun",
+      "category": "uncategorized",
+      "checkUrl": "https://www.speedrun.com/user/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "SpiceWorks",
+      "category": "uncategorized",
+      "checkUrl": "https://community.spiceworks.com/people/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "SPOJ",
+      "category": "uncategorized",
+      "checkUrl": "https://www.spoj.com/users/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "sporcle",
+      "category": "uncategorized",
+      "checkUrl": "https://www.sporcle.com/user/{account}/people/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Sports Tracker",
+      "category": "uncategorized",
+      "url": "https://sports-tracker.com/view_profile/{account}",
+      "checkUrl": "https://api.sports-tracker.com/apiserver/v1/user/name/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Spotify",
+      "category": "uncategorized",
+      "checkUrl": "https://open.spotify.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "StackOverflow",
+      "category": "uncategorized",
+      "checkUrl": "https://stackoverflow.com/users/filter?search={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Statuspage",
+      "category": "uncategorized",
+      "url": "https://{account}.statuspage.io/",
+      "checkUrl": "https://{account}.statuspage.io/api/v2/status.json",
+      "knownAccounts": []
+    },
+    {
+      "name": "Steam",
+      "category": "uncategorized",
+      "checkUrl": "https://steamcommunity.com/id/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "SteamGifts",
+      "category": "uncategorized",
+      "checkUrl": "https://www.steamgifts.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Steemit",
+      "category": "uncategorized",
+      "url": "https://steemit.com/@{account}",
+      "checkUrl": "https://signup.steemit.com/api/check_username",
+      "knownAccounts": []
+    },
+    {
+      "name": "steller",
+      "category": "uncategorized",
+      "checkUrl": "https://steller.co/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "StoryCorps",
+      "category": "uncategorized",
+      "checkUrl": "https://archive.storycorps.org/user/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "StreamElements",
+      "category": "uncategorized",
+      "url": "https://streamelements.com/{account}",
+      "checkUrl": "https://api.streamelements.com/kappa/v2/channels/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "StreamLabs",
+      "category": "uncategorized",
+      "url": "https://streamlabs.com/{account}/tip",
+      "checkUrl": "https://streamlabs.com/api/v6/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Stripchat",
+      "category": "uncategorized",
+      "url": "https://stripchat.com/{account}",
+      "checkUrl": "https://stripchat.com/api/front/users/checkUsername?username={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Subscribestar",
+      "category": "uncategorized",
+      "checkUrl": "https://subscribestar.adult/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Substack",
+      "category": "uncategorized",
+      "checkUrl": "https://substack.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "sukebei.nyaa.si",
+      "category": "uncategorized",
+      "checkUrl": "https://sukebei.nyaa.si/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Suzuri",
+      "category": "uncategorized",
+      "checkUrl": "https://suzuri.jp/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "szmer.info",
+      "category": "uncategorized",
+      "checkUrl": "https://szmer.info/u/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "tabletoptournament",
+      "category": "uncategorized",
+      "checkUrl": "https://www.tabletoptournaments.net/eu/player/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Tagged",
+      "category": "uncategorized",
+      "checkUrl": "https://secure.tagged.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "TamTam",
+      "category": "uncategorized",
+      "checkUrl": "https://tamtam.chat/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Tanuki.pl",
+      "category": "uncategorized",
+      "checkUrl": "https://tanuki.pl/profil/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "TAPiTAG",
+      "category": "uncategorized",
+      "url": "https://account.tapitag.co/{account}",
+      "checkUrl": "https://account.tapitag.co/tapitag/api/v1/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Tappy",
+      "category": "uncategorized",
+      "url": "https://www.tappy.tech/{account}",
+      "checkUrl": "https://api.tappy.tech/api/profile/username/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Taringa",
+      "category": "uncategorized",
+      "checkUrl": "https://www.taringa.net/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Taringa Archived Profile",
+      "category": "uncategorized",
+      "url": "https://web.archive.org/web/2/taringa.net/{account}",
+      "checkUrl": "https://archive.org/wayback/available?url=https://www.taringa.net/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "taskrabbit",
+      "category": "uncategorized",
+      "checkUrl": "https://www.taskrabbit.com/profile/{account}/about",
+      "knownAccounts": []
+    },
+    {
+      "name": "Teamtreehouse",
+      "category": "uncategorized",
+      "checkUrl": "https://teamtreehouse.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Teddygirls",
+      "category": "uncategorized",
+      "checkUrl": "https://teddysgirls.net/models/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Teespring",
+      "category": "uncategorized",
+      "url": "https://{account}.creator-spring.com",
+      "checkUrl": "https://commerce.teespring.com/v1/stores?slug={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Teknik",
+      "category": "uncategorized",
+      "checkUrl": "https://user.teknik.io/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Telegram",
+      "category": "uncategorized",
+      "checkUrl": "https://t.me/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Teletype",
+      "category": "uncategorized",
+      "checkUrl": "https://teletype.in/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Tellonym",
+      "category": "uncategorized",
+      "checkUrl": "https://tellonym.me/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Tenor",
+      "category": "uncategorized",
+      "checkUrl": "https://tenor.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "TETR.IO",
+      "category": "uncategorized",
+      "url": "https://ch.tetr.io/u/{account}",
+      "checkUrl": "https://ch.tetr.io/api/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "TF2 Backpack Examiner",
+      "category": "uncategorized",
+      "checkUrl": "http://www.tf2items.com/id/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "thegatewaypundit",
+      "category": "uncategorized",
+      "checkUrl": "https://www.thegatewaypundit.com/author/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "theguardian",
+      "category": "uncategorized",
+      "checkUrl": "https://www.theguardian.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "themeforest",
+      "category": "uncategorized",
+      "checkUrl": "https://themeforest.net/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Thetattooforum",
+      "category": "uncategorized",
+      "checkUrl": "https://www.thetattooforum.com/members/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "thoughts",
+      "category": "uncategorized",
+      "checkUrl": "https://thoughts.com/members/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Tilde.zone (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://tilde.zone/@{account}",
+      "checkUrl": "https://tilde.zone/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Tinder",
+      "category": "uncategorized",
+      "checkUrl": "https://tinder.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Tindie",
+      "category": "uncategorized",
+      "url": "https://www.tindie.com/stores/{account}/",
+      "checkUrl": "https://www.tindie.com/accounts/check_username/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Tooting.ch (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://tooting.ch/@{account}",
+      "checkUrl": "https://tooting.ch/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Topcoder",
+      "category": "uncategorized",
+      "url": "https://profiles.topcoder.com/{account}",
+      "checkUrl": "https://api.topcoder.com/v5/members/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "toyhou.se",
+      "category": "uncategorized",
+      "checkUrl": "https://toyhou.se/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "tradingview",
+      "category": "uncategorized",
+      "checkUrl": "https://www.tradingview.com/u/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "trakt",
+      "category": "uncategorized",
+      "checkUrl": "https://trakt.tv/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Trello",
+      "category": "uncategorized",
+      "url": "https://trello.com/{account}",
+      "checkUrl": "https://trello.com/1/Members/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "tripadvisor",
+      "category": "uncategorized",
+      "checkUrl": "https://www.tripadvisor.com/Profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "TruckersMP",
+      "category": "uncategorized",
+      "checkUrl": "https://truckersmp.com/user/search?search={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "TruckersMP.Ru",
+      "category": "uncategorized",
+      "checkUrl": "https://truckersmp.ru/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Truth Social",
+      "category": "uncategorized",
+      "checkUrl": "https://truthsocial.com/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "TryHackMe",
+      "category": "uncategorized",
+      "url": "https://tryhackme.com/r/p/{account}",
+      "checkUrl": "https://tryhackme.com/api/user/exist/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Tryst",
+      "category": "uncategorized",
+      "checkUrl": "https://tryst.link/escort/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "tumblr",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.tumblr.com",
+      "knownAccounts": []
+    },
+    {
+      "name": "tunefind",
+      "category": "uncategorized",
+      "url": "https://www.tunefind.com/user/profile/{account}",
+      "checkUrl": "https://www.tunefind.com/api-request/account/profile?userName={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Twitcasting",
+      "category": "uncategorized",
+      "checkUrl": "https://twitcasting.tv/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Twitch",
+      "category": "uncategorized",
+      "url": "https://twitch.tv/{account}/",
+      "checkUrl": "https://twitchtracker.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "twoplustwo",
+      "category": "uncategorized",
+      "url": "https://forumserver.twoplustwo.com/search.php",
+      "checkUrl": "https://forumserver.twoplustwo.com/ajax.php?do=usersearch",
+      "knownAccounts": []
+    },
+    {
+      "name": "twpro",
+      "category": "uncategorized",
+      "checkUrl": "https://twpro.jp/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Ubisoft",
+      "category": "uncategorized",
+      "checkUrl": "https://discussions.ubisoft.com/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Udemy",
+      "category": "uncategorized",
+      "checkUrl": "https://www.udemy.com/user/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "UEF CONNECT",
+      "category": "uncategorized",
+      "checkUrl": "https://uefconnect.uef.fi/en/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "uid",
+      "category": "uncategorized",
+      "checkUrl": "http://uid.me/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Ultimate Guitar",
+      "category": "uncategorized",
+      "checkUrl": "https://www.ultimate-guitar.com/u/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Ultras Diary",
+      "category": "uncategorized",
+      "checkUrl": "http://ultrasdiary.pl/u/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Unlisted Videos",
+      "category": "uncategorized",
+      "checkUrl": "https://unlistedvideos.com/search.php?user={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "unsplash",
+      "category": "uncategorized",
+      "checkUrl": "https://unsplash.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "untappd",
+      "category": "uncategorized",
+      "checkUrl": "https://untappd.com/user/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "USA Life",
+      "category": "uncategorized",
+      "checkUrl": "https://usa.life/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "utip.io",
+      "category": "uncategorized",
+      "url": "https://utip.io/{account}",
+      "checkUrl": "https://utip.io/creator/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "uwu.ai",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.uwu.ai/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Uwumarket",
+      "category": "uncategorized",
+      "checkUrl": "https://uwumarket.us/collections/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "vapenews",
+      "category": "uncategorized",
+      "checkUrl": "https://vapenews.ru/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Venmo",
+      "category": "uncategorized",
+      "checkUrl": "https://account.venmo.com/u/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Vero",
+      "category": "uncategorized",
+      "checkUrl": "https://vero.co/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "vibilagare",
+      "category": "uncategorized",
+      "checkUrl": "https://www.vibilagare.se/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "viddler",
+      "category": "uncategorized",
+      "checkUrl": "https://www.viddler.com/channel/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "VIEWBUG",
+      "category": "uncategorized",
+      "checkUrl": "https://www.viewbug.com/member/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Vimeo",
+      "category": "uncategorized",
+      "checkUrl": "https://vimeo.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Vine",
+      "category": "uncategorized",
+      "url": "https://vine.co/{account}",
+      "checkUrl": "https://vine.co/api/users/profiles/vanity/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "VIP-blog",
+      "category": "uncategorized",
+      "checkUrl": "http://{account}.vip-blog.com",
+      "knownAccounts": []
+    },
+    {
+      "name": "VirusTotal",
+      "category": "uncategorized",
+      "url": "https://www.virustotal.com/gui/user/{account}",
+      "checkUrl": "https://www.virustotal.com/ui/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "visnesscard",
+      "category": "uncategorized",
+      "url": "https://my.visnesscard.com/{account}",
+      "checkUrl": "https://my.visnesscard.com/Home/GetCard/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Vivino",
+      "category": "uncategorized",
+      "checkUrl": "https://www.vivino.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "VK",
+      "category": "uncategorized",
+      "checkUrl": "https://vk.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Vkl.world (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://vkl.world/@{account}",
+      "checkUrl": "https://vkl.world/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Vmst.io (Mastodon Instance)",
+      "category": "uncategorized",
+      "url": "https://vmst.io/@{account}",
+      "checkUrl": "https://vmst.io/api/v1/accounts/lookup?acct={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Voice123",
+      "category": "uncategorized",
+      "url": "https://voice123.com/{account}",
+      "checkUrl": "https://voice123.com/api/providers/search/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Voices.com",
+      "category": "uncategorized",
+      "checkUrl": "https://www.voices.com/profile/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "vsco",
+      "category": "uncategorized",
+      "checkUrl": "https://vsco.co/{account}/gallery",
+      "knownAccounts": []
+    },
+    {
+      "name": "W3Schools",
+      "category": "uncategorized",
+      "checkUrl": "https://pathfinder-api.kai.w3spaces.com/public-profile-api/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Wakatime",
+      "category": "uncategorized",
+      "checkUrl": "https://wakatime.com/@{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Warmerise",
+      "category": "uncategorized",
+      "checkUrl": "https://warmerise.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "warriorforum",
+      "category": "uncategorized",
+      "checkUrl": "https://www.warriorforum.com/members/{account}.html",
+      "knownAccounts": []
+    },
+    {
+      "name": "watchmemore.com",
+      "category": "uncategorized",
+      "url": "https://watchmemore.com/{account}/",
+      "checkUrl": "https://api.watchmemore.com/api4/profile/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Watchmyfeed",
+      "category": "uncategorized",
+      "checkUrl": "https://watchmyfeed.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Wattpad",
+      "category": "uncategorized",
+      "url": "https://www.wattpad.com/user/{account}",
+      "checkUrl": "https://www.wattpad.com/api/v3/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "waytohey",
+      "category": "uncategorized",
+      "checkUrl": "https://waytohey.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Weasyl",
+      "category": "uncategorized",
+      "checkUrl": "https://www.weasyl.com/~{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Weblancer",
+      "category": "uncategorized",
+      "checkUrl": "https://www.weblancer.net/users/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "weebly",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.weebly.com/",
+      "knownAccounts": []
+    },
+    {
+      "name": "wego",
+      "category": "uncategorized",
+      "checkUrl": "https://wego.social/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "weheartit",
+      "category": "uncategorized",
+      "checkUrl": "https://weheartit.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "weibo",
+      "category": "uncategorized",
+      "checkUrl": "https://tw.weibo.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "WeTransfer",
+      "category": "uncategorized",
+      "checkUrl": "https://{account}.wetransfer.com",
+      "knownAccounts": []
+    },
+    {
+      "name": "Wikidot",
+      "category": "uncategorized",
+      "checkUrl": "http://www.wikidot.com/user:info/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Wikimapia",
+      "category": "uncategorized",
+      "url": "https://wikimapia.org/user/tools/users_rating/?username={account}",
+      "checkUrl": "https://wikimapia.org/user/register/?check=username&value={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Wikipedia",
+      "category": "uncategorized",
+      "url": "https://en.wikipedia.org/wiki/User:{account}",
+      "checkUrl": "https://meta.wikimedia.org/w/api.php?action=query&format=json&list=globalallusers&aguprefix={account}&agulimit=100",
+      "knownAccounts": []
+    },
+    {
+      "name": "Wimkin-PublicProfile",
+      "category": "uncategorized",
+      "checkUrl": "https://wimkin.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Wireclub",
+      "category": "uncategorized",
+      "checkUrl": "https://www.wireclub.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Wishlistr",
+      "category": "uncategorized",
+      "url": "https://www.wishlistr.com/{account}/",
+      "checkUrl": "https://www.wishlistr.com/sign-up/?rs=checkUserName&rsargs[]={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "wordnik",
+      "category": "uncategorized",
+      "checkUrl": "https://www.wordnik.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "WordPress",
+      "category": "uncategorized",
+      "checkUrl": "https://profiles.wordpress.org/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "WordPress Support",
+      "category": "uncategorized",
+      "checkUrl": "https://wordpress.org/support/users/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Wowhead",
+      "category": "uncategorized",
+      "checkUrl": "https://www.wowhead.com/user={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Wykop",
+      "category": "uncategorized",
+      "checkUrl": "https://wykop.pl/ludzie/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Xakep.ru",
+      "category": "uncategorized",
+      "checkUrl": "https://xakep.ru/author/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Xanga",
+      "category": "uncategorized",
+      "checkUrl": "http://{account}.xanga.com/",
+      "knownAccounts": []
+    },
+    {
+      "name": "Xbox Gamertag",
+      "category": "uncategorized",
+      "checkUrl": "https://www.xboxgamertag.com/search/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "xHamster",
+      "category": "uncategorized",
+      "checkUrl": "https://xhamster.com/users/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Xing",
+      "category": "uncategorized",
+      "checkUrl": "https://www.xing.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "XNXX",
+      "category": "uncategorized",
+      "checkUrl": "https://www.xnxx.com/mobile/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "XVIDEOS-models",
+      "category": "uncategorized",
+      "checkUrl": "https://www.xvideos.com/models/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "XVIDEOS-profiles",
+      "category": "uncategorized",
+      "checkUrl": "https://www.xvideos.com/profiles/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Yahoo! JAPAN Auction",
+      "category": "uncategorized",
+      "checkUrl": "https://auctions.yahoo.co.jp/follow/list/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "yapishu",
+      "category": "uncategorized",
+      "checkUrl": "https://yapishu.net/user/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Yazawaj",
+      "category": "uncategorized",
+      "checkUrl": "https://www.yazawaj.com/profile/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "YesWeHack",
+      "category": "uncategorized",
+      "url": "https://yeswehack.com/hunters/{account}",
+      "checkUrl": "https://api.yeswehack.com/hunters/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "YouNow",
+      "category": "uncategorized",
+      "url": "https://www.younow.com/{account}",
+      "checkUrl": "https://api.younow.com/php/api/broadcast/info/user={account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "youpic",
+      "category": "uncategorized",
+      "checkUrl": "https://youpic.com/photographer/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Zbiornik",
+      "category": "uncategorized",
+      "checkUrl": "https://mini.zbiornik.com/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Zenn",
+      "category": "uncategorized",
+      "checkUrl": "https://zenn.dev/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Zepeto",
+      "category": "uncategorized",
+      "url": "https://web.zepeto.me/share/user/profile/{account}?language=en",
+      "checkUrl": "https://gw-napi.zepeto.io/profiles/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "zhihu",
+      "category": "uncategorized",
+      "url": "https://www.zhihu.com/people/{account}",
+      "checkUrl": "https://api.zhihu.com/books/people/{account}/publications?offset=0&limit=5",
+      "knownAccounts": []
+    },
+    {
+      "name": "Zillow",
+      "category": "uncategorized",
+      "checkUrl": "https://www.zillow.com/profile/{account}/",
+      "knownAccounts": []
+    },
+    {
+      "name": "zmarsa.com",
+      "category": "uncategorized",
+      "checkUrl": "https://zmarsa.com/uzytkownik/{account}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Znanija",
+      "category": "uncategorized",
+      "checkUrl": "https://znanija.com/graphql/ru?operationName=NickAvailability&query=query NickAvailability($nick:String!){nickAvailability(nick:$nick){isAvailable}}&variables={\"nick\":\"{account}\"}",
+      "knownAccounts": []
+    },
+    {
+      "name": "Zomato",
+      "category": "uncategorized",
+      "checkUrl": "https://www.zomato.com/{account}/reviews",
+      "knownAccounts": []
+    },
+    {
+      "name": "zoomitir",
+      "category": "uncategorized",
+      "checkUrl": "https://www.zoomit.ir/user/{account}/",
+      "knownAccounts": []
+    }
+  ]
+}

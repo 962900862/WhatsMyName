@@ -266,8 +266,7 @@ export default async function HomePage({
   const ctaData = {
     title: t('cta.title'),
     description: t('cta.description'),
-    primary: t('cta.primary'),
-    secondary: t('cta.secondary')
+    primary: t('cta.primary')
   };
 
   return (

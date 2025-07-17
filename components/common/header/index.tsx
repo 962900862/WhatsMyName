@@ -58,7 +58,7 @@ export default function Header({ header }: { header: HeaderType }) {
                 />
               )}
               {header.brand?.title && (
-                <span className="text-xl text-primary font-bold bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent">
+                <span className="text-xl text-primary font-bold bg-gradient-to-r from-primary to-blue-600 bg-clip-text text-transparent">
                   {header.brand?.title || ""}
                 </span>
               )}
@@ -183,7 +183,7 @@ export default function Header({ header }: { header: HeaderType }) {
                 />
               )}
               {header.brand?.title && (
-                <span className="text-xl font-bold bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent">
+                <span className="text-xl font-bold bg-gradient-to-r from-primary to-blue-600 bg-clip-text text-transparent">
                   {header.brand?.title || ""}
                 </span>
               )}
@@ -206,7 +206,7 @@ export default function Header({ header }: { header: HeaderType }) {
                         />
                       )}
                       {header.brand?.title && (
-                        <span className="text-xl font-bold bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent">
+                        <span className="text-xl font-bold bg-gradient-to-r from-primary to-blue-600 bg-clip-text text-transparent">
                           {header.brand?.title || ""}
                         </span>
                       )}
