@@ -118,6 +118,8 @@ export default async function RootLayout({
           crossOrigin="anonymous"
           strategy="afterInteractive"
         />
+        {/* PageView Analytics 统计脚本 */}
+        <script defer data-domain="whatsmyname.pro" src="https://app.pageview.app/js/script.js"></script>
       </head>
       <body
         className={cn(
